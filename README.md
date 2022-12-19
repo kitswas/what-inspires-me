@@ -58,6 +58,7 @@
 
 ## Java 
 
+- [update4j/update4j](https://github.com/update4j/update4j) - Create your own auto-update framework
 - [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [kirill-grouchnikov/radiance](https://github.com/kirill-grouchnikov/radiance) - Building modern, elegant and fast Swing applications
