@@ -10,6 +10,7 @@
 - [android](#android)
 - [api](#api)
 - [automation](#automation)
+- [c](#c)
 - [compiler](#compiler)
 - [cpp](#cpp)
 - [css](#css)
@@ -64,6 +65,7 @@
 - [software](#software)
 - [swift](#swift)
 - [terminal](#terminal)
+- [testing](#testing)
 - [typescript](#typescript)
 - [visual-studio-code](#visual-studio-code)
 - [windows](#windows)
@@ -91,6 +93,10 @@
 
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 
+## c 
+
+- [sheredom/utest.h](https://github.com/sheredom/utest.h) - 🧪 single header unit testing framework for C and C++
+
 ## compiler 
 
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
@@ -98,6 +104,7 @@
 
 ## cpp 
 
+- [sheredom/utest.h](https://github.com/sheredom/utest.h) - 🧪 single header unit testing framework for C and C++
 - [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights) - C++ Insights - See your source code with the eyes of a compiler
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 
@@ -373,6 +380,10 @@
 ## terminal 
 
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+
+## testing 
+
+- [sheredom/utest.h](https://github.com/sheredom/utest.h) - 🧪 single header unit testing framework for C and C++
 
 ## typescript 
 
