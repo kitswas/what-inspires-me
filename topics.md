@@ -52,6 +52,7 @@
 - [open-source](#open-source)
 - [opencv](#opencv)
 - [others](#others)
+- [p2p](#p2p)
 - [package-manager](#package-manager)
 - [powershell](#powershell)
 - [pwa](#pwa)
@@ -172,6 +173,7 @@
 
 ## go 
 
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [karanpratapsingh/learn-go](https://github.com/karanpratapsingh/learn-go) - Master the fundamentals and advanced features of the Go programming language
 
@@ -299,6 +301,7 @@
 
 ## others 
 
+- [TheKing0x9/cuteness-overload](https://github.com/TheKing0x9/cuteness-overload) - A tiny puzzle platformer about saving the cute world from demon incursion.
 - [johannchopin/stackoverflow-readme-profile](https://github.com/johannchopin/stackoverflow-readme-profile) - Easily share your Stackoverflow's profile on your README
 - [p12tic/cppreference-doc](https://github.com/p12tic/cppreference-doc) - C++ standard library reference
 - [FredTingaud/bench-runner](https://github.com/FredTingaud/bench-runner) - Docker runner for build-bench
@@ -322,6 +325,10 @@
 - [theicfire/makefiletutorial](https://github.com/theicfire/makefiletutorial) - Learn make by example
 - [coronasafe/admission_task](https://github.com/coronasafe/admission_task) - Global Digital Corps - Software Engineering Test Problem | Priority list
 - [particle-clicker/particle-clicker](https://github.com/particle-clicker/particle-clicker) - An addictive incremental game that teaches players the history of high energy particle physics
+
+## p2p 
+
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 
 ## package-manager 
 
