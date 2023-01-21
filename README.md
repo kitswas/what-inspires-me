@@ -16,6 +16,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [Lua](#lua)
 - [Others](#others)
 - [Python](#python)
 - [R](#r)
@@ -55,6 +56,7 @@
 
 ## Go 
 
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [karanpratapsingh/learn-go](https://github.com/karanpratapsingh/learn-go) - Master the fundamentals and advanced features of the Go programming language
 
 ## HTML 
@@ -98,6 +100,10 @@
 
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
 - [wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) - 📱The official Wikipedia app for Android!
+
+## Lua 
+
+- [TheKing0x9/cuteness-overload](https://github.com/TheKing0x9/cuteness-overload) - A tiny puzzle platformer about saving the cute world from demon incursion.
 
 ## Others 
 
