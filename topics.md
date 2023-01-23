@@ -10,6 +10,7 @@
 - [android](#android)
 - [api](#api)
 - [automation](#automation)
+- [bash](#bash)
 - [c](#c)
 - [compiler](#compiler)
 - [cpp](#cpp)
@@ -63,7 +64,9 @@
 - [reactjs](#reactjs)
 - [rest-api](#rest-api)
 - [rust](#rust)
+- [shell](#shell)
 - [software](#software)
+- [statistics](#statistics)
 - [swift](#swift)
 - [terminal](#terminal)
 - [testing](#testing)
@@ -93,6 +96,10 @@
 ## automation 
 
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
+
+## bash 
+
+- [arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 
 ## c 
 
@@ -159,6 +166,7 @@
 
 ## git 
 
+- [arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [kitswas/git-for-all](https://github.com/kitswas/git-for-all) - A quick and short guide to Git.
 - [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
 
@@ -375,10 +383,18 @@
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [veloren/veloren](https://github.com/veloren/veloren) - An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.
 
+## shell 
+
+- [arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
+
 ## software 
 
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+## statistics 
+
+- [arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 
 ## swift 
 
