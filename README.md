@@ -53,6 +53,7 @@
 ## CSS 
 
 - [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
+- [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
 
 ## Go 
 
@@ -81,6 +82,7 @@
 
 ## JavaScript 
 
+- [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
 - [cmdr2/stable-diffusion-ui](https://github.com/cmdr2/stable-diffusion-ui) - Easiest 1-click way to install and use Stable Diffusion on your own computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generat
 - [codersrank-org/skills-chart-widget](https://github.com/codersrank-org/skills-chart-widget) - Integrate skills chart from your CodersRank profile to your personal website
 - [codersrank-org/libraries](https://github.com/codersrank-org/libraries) - This repository contains a list of supported libraries, imports and technologies they belong to
@@ -140,7 +142,6 @@
 ## Svelte 
 
 - [johannchopin/stackoverflow-readme-profile](https://github.com/johannchopin/stackoverflow-readme-profile) - Easily share your Stackoverflow's profile on your README
-- [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
 
 ## TypeScript 
 
