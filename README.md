@@ -32,6 +32,7 @@
 
 ## C 
 
+- [snesrev/zelda3](https://github.com/snesrev/zelda3) - 
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 
 ## C# # 
