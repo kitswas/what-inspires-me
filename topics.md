@@ -309,6 +309,7 @@
 
 ## others 
 
+- [snesrev/zelda3](https://github.com/snesrev/zelda3) - 
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
 - [TheKing0x9/cuteness-overload](https://github.com/TheKing0x9/cuteness-overload) - A tiny puzzle platformer about saving the cute world from demon incursion.
 - [johannchopin/stackoverflow-readme-profile](https://github.com/johannchopin/stackoverflow-readme-profile) - Easily share your Stackoverflow's profile on your README
