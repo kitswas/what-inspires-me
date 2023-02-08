@@ -67,6 +67,7 @@
 - [shell](#shell)
 - [software](#software)
 - [statistics](#statistics)
+- [svelte](#svelte)
 - [swift](#swift)
 - [terminal](#terminal)
 - [testing](#testing)
@@ -397,6 +398,10 @@
 ## statistics 
 
 - [arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
+
+## svelte 
+
+- [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
 
 ## swift 
 
