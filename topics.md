@@ -310,6 +310,7 @@
 
 ## others 
 
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [snesrev/zelda3](https://github.com/snesrev/zelda3) - 
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
 - [TheKing0x9/cuteness-overload](https://github.com/TheKing0x9/cuteness-overload) - A tiny puzzle platformer about saving the cute world from demon incursion.
