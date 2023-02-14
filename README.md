@@ -44,6 +44,7 @@
 
 ## C++ 
 
+- [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [sheredom/utest.h](https://github.com/sheredom/utest.h) - 🧪 single header unit testing framework for C and C++
 - [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights) - C++ Insights - See your source code with the eyes of a compiler
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
@@ -84,6 +85,7 @@
 
 ## JavaScript 
 
+- [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
 - [cmdr2/stable-diffusion-ui](https://github.com/cmdr2/stable-diffusion-ui) - Easiest 1-click way to install and use Stable Diffusion on your own computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generat
 - [codersrank-org/skills-chart-widget](https://github.com/codersrank-org/skills-chart-widget) - Integrate skills chart from your CodersRank profile to your personal website
@@ -128,6 +130,7 @@
 
 ## Rust 
 
+- [godot-rust/gdnative](https://github.com/godot-rust/gdnative) - Rust bindings for Godot 3
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [veloren/veloren](https://github.com/veloren/veloren) - An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.
 
