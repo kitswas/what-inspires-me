@@ -6,6 +6,7 @@
 ## Contents
 
 - [3d](#3d)
+- [ai](#ai)
 - [algorithm](#algorithm)
 - [android](#android)
 - [api](#api)
@@ -13,6 +14,7 @@
 - [bash](#bash)
 - [c](#c)
 - [compiler](#compiler)
+- [computer-vision](#computer-vision)
 - [cpp](#cpp)
 - [css](#css)
 - [data-science](#data-science)
@@ -28,6 +30,7 @@
 - [github](#github)
 - [github-api](#github-api)
 - [go](#go)
+- [godot](#godot)
 - [golang](#golang)
 - [graphql](#graphql)
 - [hacktoberfest](#hacktoberfest)
@@ -49,6 +52,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [maven](#maven)
+- [neural-network](#neural-network)
 - [nextjs](#nextjs)
 - [open-source](#open-source)
 - [opencv](#opencv)
@@ -58,6 +62,7 @@
 - [powershell](#powershell)
 - [pwa](#pwa)
 - [python](#python)
+- [pytorch](#pytorch)
 - [r](#r)
 - [react](#react)
 - [react-native](#react-native)
@@ -69,6 +74,7 @@
 - [statistics](#statistics)
 - [svelte](#svelte)
 - [swift](#swift)
+- [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [testing](#testing)
 - [typescript](#typescript)
@@ -78,6 +84,10 @@
 ## 3d 
 
 - [veloren/veloren](https://github.com/veloren/veloren) - An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.
+
+## ai 
+
+- [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
 
 ## algorithm 
 
@@ -111,6 +121,10 @@
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 
+## computer-vision 
+
+- [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
+
 ## cpp 
 
 - [sheredom/utest.h](https://github.com/sheredom/utest.h) - 🧪 single header unit testing framework for C and C++
@@ -135,6 +149,8 @@
 
 ## deep-learning 
 
+- [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
+- [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [openhackathons-org/gpubootcamp](https://github.com/openhackathons-org/gpubootcamp) - This repository consists for gpu bootcamp material for HPC and AI
 
 ## electron 
@@ -155,6 +171,7 @@
 
 ## game-development 
 
+- [godot-rust/gdnative](https://github.com/godot-rust/gdnative) - Rust bindings for Godot 3
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 
 ## game-engine 
@@ -185,6 +202,10 @@
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [karanpratapsingh/learn-go](https://github.com/karanpratapsingh/learn-go) - Master the fundamentals and advanced features of the Go programming language
+
+## godot 
+
+- [godot-rust/gdnative](https://github.com/godot-rust/gdnative) - Rust bindings for Godot 3
 
 ## golang 
 
@@ -221,6 +242,7 @@
 
 ## image-processing 
 
+- [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [BhanuPrakashNani/Image_Processing](https://github.com/BhanuPrakashNani/Image_Processing) - Image Processing techniques using OpenCV and Python.
 
 ## ios 
@@ -279,6 +301,7 @@
 
 ## machine-learning 
 
+- [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
 - [openhackathons-org/gpubootcamp](https://github.com/openhackathons-org/gpubootcamp) - This repository consists for gpu bootcamp material for HPC and AI
 
 ## macos 
@@ -294,6 +317,10 @@
 - [codenameone/CodenameOne](https://github.com/codenameone/CodenameOne) - Cross-platform framework for building truly native mobile apps with Java or Kotlin. Write Once Run Anywhere support for iOS, Android, Desktop & Web.
 - [apache/maven](https://github.com/apache/maven) - Apache Maven core
 
+## neural-network 
+
+- [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
+
 ## nextjs 
 
 - [softmaple/softmaple](https://github.com/softmaple/softmaple) - A Paper Typesetting Editor
@@ -306,6 +333,7 @@
 
 ## opencv 
 
+- [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [BhanuPrakashNani/Image_Processing](https://github.com/BhanuPrakashNani/Image_Processing) - Image Processing techniques using OpenCV and Python.
 
 ## others 
@@ -360,6 +388,10 @@
 - [widelands/widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and d
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 
+## pytorch 
+
+- [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
+
 ## r 
 
 - [rstudio/shiny](https://github.com/rstudio/shiny) - Easy interactive web applications with R
@@ -382,6 +414,7 @@
 
 ## rust 
 
+- [godot-rust/gdnative](https://github.com/godot-rust/gdnative) - Rust bindings for Godot 3
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
@@ -407,6 +440,10 @@
 ## swift 
 
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
+
+## tensorflow 
+
+- [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
 
 ## terminal 
 
