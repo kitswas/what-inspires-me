@@ -59,6 +59,7 @@
 - [others](#others)
 - [p2p](#p2p)
 - [package-manager](#package-manager)
+- [pixel-art](#pixel-art)
 - [powershell](#powershell)
 - [pwa](#pwa)
 - [python](#python)
@@ -171,11 +172,13 @@
 
 ## game-development 
 
+- [markusmoenig/Eldiron](https://github.com/markusmoenig/Eldiron) - A cross platform classic RPG game creator written in Rust.
 - [godot-rust/gdnative](https://github.com/godot-rust/gdnative) - Rust bindings for Godot 3
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 
 ## game-engine 
 
+- [markusmoenig/Eldiron](https://github.com/markusmoenig/Eldiron) - A cross platform classic RPG game creator written in Rust.
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 
 ## games 
@@ -373,6 +376,10 @@
 ## package-manager 
 
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
+
+## pixel-art 
+
+- [markusmoenig/Eldiron](https://github.com/markusmoenig/Eldiron) - A cross platform classic RPG game creator written in Rust.
 
 ## powershell 
 
