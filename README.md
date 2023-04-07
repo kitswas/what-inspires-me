@@ -32,6 +32,7 @@
 
 ## C 
 
+- [johnfanv2/LenovoLegionLinux](https://github.com/johnfanv2/LenovoLegionLinux) - Tools for controlling Lenovo Legion laptops in Linux like fan control and power mode.
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [snesrev/zelda3](https://github.com/snesrev/zelda3) - 
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
