@@ -21,6 +21,7 @@
 - [data-structures](#data-structures)
 - [deep-learning](#deep-learning)
 - [documentation](#documentation)
+- [education](#education)
 - [electron](#electron)
 - [framework](#framework)
 - [game](#game)
@@ -161,6 +162,13 @@
 ## documentation 
 
 - [go-compression/go-compression.github.io](https://github.com/go-compression/go-compression.github.io) - The Hitchhiker's Guide to Compression
+
+## education 
+
+- [kitswas/git-for-all](https://github.com/kitswas/git-for-all) - A quick and short guide to Git.
+- [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
+- [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
+- [avinash201199/Competitions-and-Programs-List](https://github.com/avinash201199/Competitions-and-Programs-List) - List of competitions with details for college students to participate and  to enhance their skills.
 
 ## electron 
 
@@ -355,6 +363,7 @@
 
 ## others 
 
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [snesrev/zelda3](https://github.com/snesrev/zelda3) - 
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
