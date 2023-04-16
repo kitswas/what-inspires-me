@@ -368,6 +368,7 @@
 
 ## others 
 
+- [SebLague/Ray-Tracing](https://github.com/SebLague/Ray-Tracing) - 
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [snesrev/zelda3](https://github.com/snesrev/zelda3) - 
