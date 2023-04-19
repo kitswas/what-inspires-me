@@ -55,6 +55,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [maven](#maven)
+- [music](#music)
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
 - [open-source](#open-source)
@@ -170,6 +171,7 @@
 
 ## education 
 
+- [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 - [kitswas/git-for-all](https://github.com/kitswas/git-for-all) - A quick and short guide to Git.
 - [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
@@ -345,6 +347,10 @@
 
 - [codenameone/CodenameOne](https://github.com/codenameone/CodenameOne) - Cross-platform framework for building truly native mobile apps with Java or Kotlin. Write Once Run Anywhere support for iOS, Android, Desktop & Web.
 - [apache/maven](https://github.com/apache/maven) - Apache Maven core
+
+## music 
+
+- [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 
 ## neural-network 
 
