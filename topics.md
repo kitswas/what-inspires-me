@@ -102,6 +102,7 @@
 
 ## android 
 
+- [tranleduy2000/ncalc](https://github.com/tranleduy2000/ncalc) - Power calculator for Android. Solve some problem algebra  and calculus.
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [codenameone/CodenameOne](https://github.com/codenameone/CodenameOne) - Cross-platform framework for building truly native mobile apps with Java or Kotlin. Write Once Run Anywhere support for iOS, Android, Desktop & Web.
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
@@ -167,6 +168,7 @@
 
 ## documentation 
 
+- [mattcone/markdown-guide](https://github.com/mattcone/markdown-guide) - The comprehensive Markdown reference guide.
 - [go-compression/go-compression.github.io](https://github.com/go-compression/go-compression.github.io) - The Hitchhiker's Guide to Compression
 
 ## education 
@@ -341,6 +343,7 @@
 
 ## markdown 
 
+- [mattcone/markdown-guide](https://github.com/mattcone/markdown-guide) - The comprehensive Markdown reference guide.
 - [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 
 ## maven 
