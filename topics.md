@@ -189,6 +189,7 @@
 
 ## game 
 
+- [jukibom/FlyDangerous](https://github.com/jukibom/FlyDangerous) - A love letter to the Elite Dangerous racing community ❤
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [veloren/veloren](https://github.com/veloren/veloren) - An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.
 - [widelands/widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and d
@@ -197,6 +198,7 @@
 
 ## game-development 
 
+- [jukibom/FlyDangerous](https://github.com/jukibom/FlyDangerous) - A love letter to the Elite Dangerous racing community ❤
 - [markusmoenig/Eldiron](https://github.com/markusmoenig/Eldiron) - A cross platform classic RPG game creator written in Rust.
 - [godot-rust/gdnative](https://github.com/godot-rust/gdnative) - Rust bindings for Godot 3
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
