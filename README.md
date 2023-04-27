@@ -44,6 +44,7 @@
 
 ## C# # 
 
+- [jukibom/FlyDangerous](https://github.com/jukibom/FlyDangerous) - A love letter to the Elite Dangerous racing community ❤
 - [SebLague/Ray-Tracing](https://github.com/SebLague/Ray-Tracing) - 
 - [SebLague/Digital-Logic-Sim](https://github.com/SebLague/Digital-Logic-Sim) - 
 - [SebLague/Geographical-Adventures](https://github.com/SebLague/Geographical-Adventures) - 
