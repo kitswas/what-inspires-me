@@ -182,6 +182,7 @@
 
 ## electron 
 
+- [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
 ## framework 
@@ -215,12 +216,14 @@
 
 ## git 
 
+- [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [kitswas/git-for-all](https://github.com/kitswas/git-for-all) - A quick and short guide to Git.
 - [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
 
 ## github 
 
+- [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 
@@ -516,6 +519,7 @@
 
 ## typescript 
 
+- [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
