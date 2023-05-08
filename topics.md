@@ -388,6 +388,7 @@
 
 ## others 
 
+- [MarginaliaSearch/MarginaliaSearch](https://github.com/MarginaliaSearch/MarginaliaSearch) - Internet search engine for text-oriented websites. Indexing the small, old and weird web.
 - [breathe-doc/breathe](https://github.com/breathe-doc/breathe) - ReStructuredText and Sphinx bridge to Doxygen
 - [SebLague/Ray-Tracing](https://github.com/SebLague/Ray-Tracing) - 
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
