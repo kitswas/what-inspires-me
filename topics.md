@@ -16,6 +16,7 @@
 - [compiler](#compiler)
 - [computer-vision](#computer-vision)
 - [cpp](#cpp)
+- [csharp](#csharp)
 - [css](#css)
 - [data-science](#data-science)
 - [data-structures](#data-structures)
@@ -139,6 +140,10 @@
 - [sheredom/utest.h](https://github.com/sheredom/utest.h) - 🧪 single header unit testing framework for C and C++
 - [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights) - C++ Insights - See your source code with the eyes of a compiler
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
+
+## csharp 
+
+- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
 
 ## css 
 
