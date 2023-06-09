@@ -181,6 +181,7 @@
 
 ## education 
 
+- [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) - Digital logic design tool and simulator
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 - [kitswas/git-for-all](https://github.com/kitswas/git-for-all) - A quick and short guide to Git.
 - [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
@@ -264,6 +265,7 @@
 
 ## hacktoberfest 
 
+- [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse) - CircuitVerse Primary Code Base
 - [ThinkR-open/golem](https://github.com/ThinkR-open/golem) - A Framework for Building Robust Shiny Apps
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 - [go-compression/go-compression.github.io](https://github.com/go-compression/go-compression.github.io) - The Hitchhiker's Guide to Compression
@@ -409,7 +411,7 @@
 - [johannchopin/stackoverflow-readme-profile](https://github.com/johannchopin/stackoverflow-readme-profile) - Easily share your Stackoverflow's profile on your README
 - [p12tic/cppreference-doc](https://github.com/p12tic/cppreference-doc) - C++ standard library reference
 - [FredTingaud/bench-runner](https://github.com/FredTingaud/bench-runner) - Docker runner for build-bench
-- [cmdr2/stable-diffusion-ui](https://github.com/cmdr2/stable-diffusion-ui) - Easiest 1-click way to install and use Stable Diffusion on your computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated i
+- [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to install and use Stable Diffusion on your computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated i
 - [codersrank-org/skills-chart-widget](https://github.com/codersrank-org/skills-chart-widget) - Integrate skills chart from your CodersRank profile to your personal website
 - [doxygen/doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
 - [SebLague/Digital-Logic-Sim](https://github.com/SebLague/Digital-Logic-Sim) - 
