@@ -18,6 +18,7 @@
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Others](#others)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [R](#r)
 - [Rust](#rust)
@@ -132,6 +133,10 @@
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+
+## PowerShell 
+
+- [jonasw234/au-packages](https://github.com/jonasw234/au-packages) - Automatic updated packages for Chocolatey
 
 ## Python 
 
