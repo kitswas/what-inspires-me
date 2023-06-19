@@ -399,6 +399,7 @@
 
 ## others 
 
+- [aropan/clist](https://github.com/aropan/clist) - List of competitions for competitive programming
 - [jonasw234/au-packages](https://github.com/jonasw234/au-packages) - Automatic updated packages for Chocolatey
 - [ROCm-Developer-Tools/HIP](https://github.com/ROCm-Developer-Tools/HIP) - HIP: C++ Heterogeneous-Compute Interface for Portability
 - [MarginaliaSearch/MarginaliaSearch](https://github.com/MarginaliaSearch/MarginaliaSearch) - Internet search engine for text-oriented websites. Indexing the small, old and weird web.
@@ -418,7 +419,6 @@
 - [SebLague/Digital-Logic-Sim](https://github.com/SebLague/Digital-Logic-Sim) - 
 - [visualboyadvance-m/visualboyadvance-m](https://github.com/visualboyadvance-m/visualboyadvance-m) - The continuing development of the legendary VBA gameboy advance emulator.
 - [meunierd/upset](https://github.com/meunierd/upset) - Mirror of byuu's ups patcher
-- [aropan/clist](https://github.com/aropan/clist) - List of competitions for competitive programming
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [Semalab/developer-skills-matrix](https://github.com/Semalab/developer-skills-matrix) - 
 - [SebLague/Geographical-Adventures](https://github.com/SebLague/Geographical-Adventures) - 
