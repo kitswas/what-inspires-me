@@ -142,6 +142,7 @@
 
 ## Python 
 
+- [boschglobal/doxysphinx](https://github.com/boschglobal/doxysphinx) - A lightweight Doxygen extension for Sphinx
 - [aropan/clist](https://github.com/aropan/clist) - List of competitions for competitive programming
 - [breathe-doc/breathe](https://github.com/breathe-doc/breathe) - ReStructuredText and Sphinx bridge to Doxygen
 - [saketkc/fos-proposals](https://github.com/saketkc/fos-proposals) - :gift_heart: :penguin: Archive of GSoC proposals
