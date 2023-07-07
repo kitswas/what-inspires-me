@@ -11,6 +11,7 @@
 - [android](#android)
 - [api](#api)
 - [automation](#automation)
+- [awesome-list](#awesome-list)
 - [bash](#bash)
 - [c](#c)
 - [chrome](#chrome)
@@ -72,6 +73,7 @@
 - [package-manager](#package-manager)
 - [pixel-art](#pixel-art)
 - [powershell](#powershell)
+- [programming](#programming)
 - [pwa](#pwa)
 - [python](#python)
 - [pytorch](#pytorch)
@@ -124,6 +126,10 @@
 ## automation 
 
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
+
+## awesome-list 
+
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ## bash 
 
@@ -479,6 +485,10 @@
 ## powershell 
 
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
+
+## programming 
+
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ## pwa 
 
