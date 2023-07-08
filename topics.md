@@ -296,6 +296,7 @@
 
 ## hacktoberfest 
 
+- [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
 - [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse) - CircuitVerse Primary Code Base
 - [ThinkR-open/golem](https://github.com/ThinkR-open/golem) - A Framework for Building Robust Shiny Apps
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
@@ -534,6 +535,7 @@
 
 ## rust 
 
+- [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
 - [godot-rust/gdnative](https://github.com/godot-rust/gdnative) - Rust bindings for Godot 3
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
