@@ -437,6 +437,7 @@
 
 ## others 
 
+- [zed0/clang-format-configurator](https://github.com/zed0/clang-format-configurator) - Interactively view changes in clang-format configuration
 - [0xpayne/gpt-migrate](https://github.com/0xpayne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [aropan/clist](https://github.com/aropan/clist) - List of competitions for competitive programming
