@@ -83,6 +83,7 @@
 
 ## Java 
 
+- [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
 - [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) - Digital logic design tool and simulator
 - [tranleduy2000/ncalc](https://github.com/tranleduy2000/ncalc) - Power calculator for Android. Solve some problem algebra  and calculus.
 - [update4j/update4j](https://github.com/update4j/update4j) - Create your own auto-update framework
