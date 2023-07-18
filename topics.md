@@ -113,6 +113,7 @@
 
 ## android 
 
+- [pascaldekloe/colfer](https://github.com/pascaldekloe/colfer) - binary serialization format
 - [Moustachauve/cookie-editor](https://github.com/Moustachauve/cookie-editor) - A powerful browser extension to create, edit and delete cookies
 - [tranleduy2000/ncalc](https://github.com/tranleduy2000/ncalc) - Power calculator for Android. Solve some problem algebra  and calculus.
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
@@ -138,6 +139,7 @@
 
 ## c 
 
+- [pascaldekloe/colfer](https://github.com/pascaldekloe/colfer) - binary serialization format
 - [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
 - [sheredom/utest.h](https://github.com/sheredom/utest.h) - 🧪 single header unit testing framework for C and C++
 
@@ -286,6 +288,7 @@
 
 ## golang 
 
+- [pascaldekloe/colfer](https://github.com/pascaldekloe/colfer) - binary serialization format
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [karanpratapsingh/learn-go](https://github.com/karanpratapsingh/learn-go) - Master the fundamentals and advanced features of the Go programming language
 
@@ -336,6 +339,7 @@
 
 ## java 
 
+- [pascaldekloe/colfer](https://github.com/pascaldekloe/colfer) - binary serialization format
 - [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
 - [update4j/update4j](https://github.com/update4j/update4j) - Create your own auto-update framework
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
@@ -347,6 +351,7 @@
 
 ## javascript 
 
+- [pascaldekloe/colfer](https://github.com/pascaldekloe/colfer) - binary serialization format
 - [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
@@ -445,6 +450,7 @@
 
 ## others 
 
+- [eishay/jvm-serializers](https://github.com/eishay/jvm-serializers) - Benchmark comparing serialization libraries on the JVM
 - [zed0/clang-format-configurator](https://github.com/zed0/clang-format-configurator) - Interactively view changes in clang-format configuration
 - [0xpayne/gpt-migrate](https://github.com/0xpayne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
