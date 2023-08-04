@@ -524,6 +524,7 @@
 
 ## r 
 
+- [IndrajeetPatil/ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) - Enhancing {ggplot2} plots with statistical analysis 📊📣
 - [ThinkR-open/golem](https://github.com/ThinkR-open/golem) - A Framework for Building Robust Shiny Apps
 - [rstudio/shiny](https://github.com/rstudio/shiny) - Easy interactive web applications with R
 
