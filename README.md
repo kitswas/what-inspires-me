@@ -150,6 +150,7 @@
 
 ## Python 
 
+- [skills/secure-code-game](https://github.com/skills/secure-code-game) - A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code.
 - [0xpayne/gpt-migrate](https://github.com/0xpayne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [boschglobal/doxysphinx](https://github.com/boschglobal/doxysphinx) - A lightweight Doxygen extension for Sphinx
 - [aropan/clist](https://github.com/aropan/clist) - List of competitions for competitive programming
