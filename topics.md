@@ -310,6 +310,7 @@
 - [chocolatey-community/chocolatey-packages](https://github.com/chocolatey-community/chocolatey-packages) - Chocolatey Community Maintainers Team Packages - packages that are managed and maintained by core community team for community package repository (https://community.chocolatey.org/packages)
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
 - [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse) - CircuitVerse Primary Code Base
+- [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 - [ThinkR-open/golem](https://github.com/ThinkR-open/golem) - A Framework for Building Robust Shiny Apps
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 - [go-compression/go-compression.github.io](https://github.com/go-compression/go-compression.github.io) - The Hitchhiker's Guide to Compression
