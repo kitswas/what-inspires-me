@@ -313,6 +313,7 @@
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
 - [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse) - CircuitVerse Primary Code Base
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
+- [LMMS/lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
 - [ThinkR-open/golem](https://github.com/ThinkR-open/golem) - A Framework for Building Robust Shiny Apps
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 - [go-compression/go-compression.github.io](https://github.com/go-compression/go-compression.github.io) - The Hitchhiker's Guide to Compression
