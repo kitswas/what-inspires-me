@@ -214,7 +214,6 @@
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 - [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- [avinash201199/Competitions-and-Programs-List](https://github.com/avinash201199/Competitions-and-Programs-List) - List of competitions with details for college students to participate and  to enhance their skills.
 
 ## electron 
 
