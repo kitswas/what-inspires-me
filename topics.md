@@ -472,7 +472,7 @@
 ## others 
 
 - [burntcustard/tiny-yurts](https://github.com/burntcustard/tiny-yurts) - 
-- [codecrafters-io/build-your-own-http-server](https://github.com/codecrafters-io/build-your-own-http-server) - 
+- [codecrafters-io/build-your-own-http-server](https://github.com/codecrafters-io/build-your-own-http-server) - Definition for the http-server challenge.
 - [sbmueller/nohello](https://github.com/sbmueller/nohello) - https://sbmueller.github.io/nohello/ Website on chat etiquette. Copied from nohello.com.
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [skills/secure-code-game](https://github.com/skills/secure-code-game) - A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code.
