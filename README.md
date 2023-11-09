@@ -193,7 +193,7 @@
 
 ## Shell 
 
-- [codecrafters-io/build-your-own-http-server](https://github.com/codecrafters-io/build-your-own-http-server) - 
+- [codecrafters-io/build-your-own-http-server](https://github.com/codecrafters-io/build-your-own-http-server) - Definition for the http-server challenge.
 - [arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 
 ## Svelte 
