@@ -77,6 +77,7 @@
 - [package-manager](#package-manager)
 - [pixel-art](#pixel-art)
 - [powershell](#powershell)
+- [privacy](#privacy)
 - [programming](#programming)
 - [pwa](#pwa)
 - [python](#python)
@@ -535,6 +536,10 @@
 ## powershell 
 
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
+
+## privacy 
+
+- [Moustachauve/cookie-editor](https://github.com/Moustachauve/cookie-editor) - A powerful browser extension to create, edit and delete cookies
 
 ## programming 
 
