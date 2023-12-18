@@ -10,6 +10,7 @@
 - [algorithm](#algorithm)
 - [android](#android)
 - [api](#api)
+- [arduino](#arduino)
 - [automation](#automation)
 - [awesome-list](#awesome-list)
 - [bash](#bash)
@@ -50,6 +51,7 @@
 - [html](#html)
 - [image-processing](#image-processing)
 - [ios](#ios)
+- [iot](#iot)
 - [java](#java)
 - [javascript](#javascript)
 - [jekyll](#jekyll)
@@ -128,6 +130,10 @@
 ## api 
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+## arduino 
+
+- [platformio/platformio-core](https://github.com/platformio/platformio-core) - Your Gateway to Embedded Software Development Excellence :alien:
 
 ## automation 
 
@@ -358,6 +364,10 @@
 
 - [codenameone/CodenameOne](https://github.com/codenameone/CodenameOne) - Cross-platform framework for building truly native mobile apps with Java or Kotlin. Write Once Run Anywhere support for iOS, Android, Desktop & Web.
 
+## iot 
+
+- [platformio/platformio-core](https://github.com/platformio/platformio-core) - Your Gateway to Embedded Software Development Excellence :alien:
+
 ## java 
 
 - [pascaldekloe/colfer](https://github.com/pascaldekloe/colfer) - binary serialization format
@@ -526,6 +536,7 @@
 
 ## package-manager 
 
+- [platformio/platformio-core](https://github.com/platformio/platformio-core) - Your Gateway to Embedded Software Development Excellence :alien:
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 
 ## pixel-art 
