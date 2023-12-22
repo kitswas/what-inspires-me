@@ -488,6 +488,7 @@
 
 ## others 
 
+- [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
 - [burntcustard/tiny-yurts](https://github.com/burntcustard/tiny-yurts) - Js13kGames 2023 4th place 🏅
 - [codecrafters-io/build-your-own-http-server](https://github.com/codecrafters-io/build-your-own-http-server) - Definition for the http-server challenge.
 - [sbmueller/nohello](https://github.com/sbmueller/nohello) - https://sbmueller.github.io/nohello/ Website on chat etiquette. Copied from nohello.com.
