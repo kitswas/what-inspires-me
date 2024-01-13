@@ -261,19 +261,19 @@
 
 - [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 - [jukibom/FlyDangerous](https://github.com/jukibom/FlyDangerous) - A love letter to the Elite Dangerous racing community ❤
-- [markusmoenig/Eldiron](https://github.com/markusmoenig/Eldiron) - A cross platform classic RPG game creator written in Rust.
+- [markusmoenig/Eldiron](https://github.com/markusmoenig/Eldiron) - A cross platform retro RPG game creator written in Rust.
 - [godot-rust/gdnative](https://github.com/godot-rust/gdnative) - Rust bindings for Godot 3
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 
 ## game-engine 
 
-- [markusmoenig/Eldiron](https://github.com/markusmoenig/Eldiron) - A cross platform classic RPG game creator written in Rust.
+- [markusmoenig/Eldiron](https://github.com/markusmoenig/Eldiron) - A cross platform retro RPG game creator written in Rust.
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 
 ## gamedev 
 
 - [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
-- [markusmoenig/Eldiron](https://github.com/markusmoenig/Eldiron) - A cross platform classic RPG game creator written in Rust.
+- [markusmoenig/Eldiron](https://github.com/markusmoenig/Eldiron) - A cross platform retro RPG game creator written in Rust.
 - [godot-rust/gdnative](https://github.com/godot-rust/gdnative) - Rust bindings for Godot 3
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 
@@ -544,7 +544,7 @@
 ## pixel-art 
 
 - [CytopiaTeam/Cytopia](https://github.com/CytopiaTeam/Cytopia) - :deciduous_tree::house_with_garden::office::evergreen_tree: A city building simulation game
-- [markusmoenig/Eldiron](https://github.com/markusmoenig/Eldiron) - A cross platform classic RPG game creator written in Rust.
+- [markusmoenig/Eldiron](https://github.com/markusmoenig/Eldiron) - A cross platform retro RPG game creator written in Rust.
 
 ## powershell 
 
