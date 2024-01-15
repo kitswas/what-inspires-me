@@ -68,6 +68,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [maven](#maven)
+- [microsoft](#microsoft)
 - [music](#music)
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
@@ -454,6 +455,10 @@
 
 - [codenameone/CodenameOne](https://github.com/codenameone/CodenameOne) - Cross-platform framework for building truly native mobile apps with Java or Kotlin. Write Once Run Anywhere support for iOS, Android, Desktop & Web.
 - [apache/maven](https://github.com/apache/maven) - Apache Maven core
+
+## microsoft 
+
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
 ## music 
 
