@@ -103,6 +103,7 @@
 - [testing](#testing)
 - [typescript](#typescript)
 - [visual-studio-code](#visual-studio-code)
+- [web-development](#web-development)
 - [website](#website)
 - [windows](#windows)
 
@@ -675,6 +676,10 @@
 ## visual-studio-code 
 
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+
+## web-development 
+
+- [rstudio/shiny](https://github.com/rstudio/shiny) - Easy interactive web applications with R
 
 ## website 
 
