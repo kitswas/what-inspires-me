@@ -155,7 +155,7 @@
 ## Others 
 
 - [DitheringIdiot/lowercase-able-code](https://github.com/DitheringIdiot/lowercase-able-code) - A list of code syntax that can be written in lowercase without altering how the code works.
-- [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++11/14/17/20)
+- [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++11/14/17/20/23)
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
