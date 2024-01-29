@@ -167,7 +167,7 @@
 
 ## code-quality 
 
-- [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++11/14/17/20)
+- [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++11/14/17/20/23)
 
 ## compiler 
 
@@ -184,7 +184,7 @@
 
 ## cpp 
 
-- [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++11/14/17/20)
+- [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++11/14/17/20/23)
 - [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 - [sheredom/utest.h](https://github.com/sheredom/utest.h) - 🧪 single header unit testing framework for C and C++
 - [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights) - C++ Insights - See your source code with the eyes of a compiler
@@ -573,7 +573,7 @@
 
 ## programming 
 
-- [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++11/14/17/20)
+- [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++11/14/17/20/23)
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ## pwa 
