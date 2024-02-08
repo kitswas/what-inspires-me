@@ -231,7 +231,6 @@
 
 ## education 
 
-- [kitswas/git-for-all](https://github.com/kitswas/git-for-all) - A quick and short guide to Git.
 - [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) - Digital logic design tool and simulator
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 - [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
@@ -292,7 +291,6 @@
 ## git 
 
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-- [kitswas/git-for-all](https://github.com/kitswas/git-for-all) - A quick and short guide to Git.
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
@@ -486,7 +484,6 @@
 ## open-source 
 
 - [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
-- [kitswas/git-for-all](https://github.com/kitswas/git-for-all) - A quick and short guide to Git.
 - [saketkc/fos-proposals](https://github.com/saketkc/fos-proposals) - :gift_heart: :penguin: Archive of GSoC proposals
 - [BhanuPrakashNani/Image_Processing](https://github.com/BhanuPrakashNani/Image_Processing) - Image Processing techniques using OpenCV and Python.
 - [avinash201199/Competitions-and-Programs-List](https://github.com/avinash201199/Competitions-and-Programs-List) - List of competitions with details for college students to participate and  to enhance their skills.
