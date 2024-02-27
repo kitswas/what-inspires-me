@@ -533,7 +533,7 @@
 - [sbmueller/nohello](https://github.com/sbmueller/nohello) - https://sbmueller.github.io/nohello/ Website on chat etiquette. Copied from nohello.com.
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [skills/secure-code-game](https://github.com/skills/secure-code-game) - A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code.
-- [narendrasss/NotANumber](https://github.com/narendrasss/NotANumber) - An interactive blog on computer science and web dev 💡
+- [nandanmen/NotANumber](https://github.com/nandanmen/NotANumber) - An interactive blog on computer science and web dev 💡
 - [eishay/jvm-serializers](https://github.com/eishay/jvm-serializers) - Benchmark comparing serialization libraries on the JVM
 - [zed0/clang-format-configurator](https://github.com/zed0/clang-format-configurator) - Interactively view changes in clang-format configuration
 - [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
