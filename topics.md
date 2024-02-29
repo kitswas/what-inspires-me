@@ -79,6 +79,7 @@
 - [open-source](#open-source)
 - [opencv](#opencv)
 - [opengl](#opengl)
+- [osint](#osint)
 - [others](#others)
 - [p2p](#p2p)
 - [package-manager](#package-manager)
@@ -96,6 +97,7 @@
 - [redux](#redux)
 - [rest-api](#rest-api)
 - [rust](#rust)
+- [security](#security)
 - [shell](#shell)
 - [software](#software)
 - [statistics](#statistics)
@@ -283,20 +285,20 @@
 
 - [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 - [jukibom/FlyDangerous](https://github.com/jukibom/FlyDangerous) - A love letter to the Elite Dangerous racing community ❤
-- [markusmoenig/Eldiron](https://github.com/markusmoenig/Eldiron) - A cross platform retro RPG game creator written in Rust.
+- [markusmoenig/Eldiron](https://github.com/markusmoenig/Eldiron) - Create cross platform retro RPGs in 2D and 3D. Written in Rust.
 - [godot-rust/gdnative](https://github.com/godot-rust/gdnative) - Rust bindings for Godot 3
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 
 ## game-engine 
 
-- [markusmoenig/Eldiron](https://github.com/markusmoenig/Eldiron) - A cross platform retro RPG game creator written in Rust.
+- [markusmoenig/Eldiron](https://github.com/markusmoenig/Eldiron) - Create cross platform retro RPGs in 2D and 3D. Written in Rust.
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 
 ## gamedev 
 
 - [Uriopass/Egregoria](https://github.com/Uriopass/Egregoria) - 3D City Builder without a grid
 - [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
-- [markusmoenig/Eldiron](https://github.com/markusmoenig/Eldiron) - A cross platform retro RPG game creator written in Rust.
+- [markusmoenig/Eldiron](https://github.com/markusmoenig/Eldiron) - Create cross platform retro RPGs in 2D and 3D. Written in Rust.
 - [godot-rust/gdnative](https://github.com/godot-rust/gdnative) - Rust bindings for Godot 3
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 
@@ -522,6 +524,10 @@
 
 - [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 
+## osint 
+
+- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
+
 ## others 
 
 - [tiagoad/suicide-linux](https://github.com/tiagoad/suicide-linux) - @qntm's Suicide Linux, now available on Docker!
@@ -583,7 +589,7 @@
 ## pixel-art 
 
 - [CytopiaTeam/Cytopia](https://github.com/CytopiaTeam/Cytopia) - :deciduous_tree::house_with_garden::office::evergreen_tree: A city building simulation game
-- [markusmoenig/Eldiron](https://github.com/markusmoenig/Eldiron) - A cross platform retro RPG game creator written in Rust.
+- [markusmoenig/Eldiron](https://github.com/markusmoenig/Eldiron) - Create cross platform retro RPGs in 2D and 3D. Written in Rust.
 
 ## powershell 
 
@@ -591,6 +597,7 @@
 
 ## privacy 
 
+- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [Moustachauve/cookie-editor](https://github.com/Moustachauve/cookie-editor) - A powerful browser extension to create, edit and delete cookies
 
 ## programming 
@@ -654,6 +661,10 @@
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [veloren/veloren](https://github.com/veloren/veloren) - An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.
+
+## security 
+
+- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 
 ## shell 
 
