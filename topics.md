@@ -74,6 +74,7 @@
 - [maven](#maven)
 - [microsoft](#microsoft)
 - [music](#music)
+- [natural-language-processing](#natural-language-processing)
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
 - [open-source](#open-source)
@@ -200,7 +201,7 @@
 ## csharp 
 
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
-- [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
+- [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
 
 ## css 
@@ -499,6 +500,10 @@
 - [LMMS/lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 
+## natural-language-processing 
+
+- [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
+
 ## neural-network 
 
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
@@ -530,6 +535,7 @@
 
 ## others 
 
+- [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [tiagoad/suicide-linux](https://github.com/tiagoad/suicide-linux) - @qntm's Suicide Linux, now available on Docker!
 - [DitheringIdiot/lowercase-able-code](https://github.com/DitheringIdiot/lowercase-able-code) - A list of code syntax that can be written in lowercase without altering how the code works.
 - [Primer-Learning/PrimerToolsUnity](https://github.com/Primer-Learning/PrimerToolsUnity) - Tool used for producing Primer YouTube videos
@@ -568,7 +574,6 @@
 - [JFormDesigner/FlatLaf](https://github.com/JFormDesigner/FlatLaf) - FlatLaf - Swing Look and Feel (with Darcula/IntelliJ themes support)
 - [mfinelli/setup-imagemagick](https://github.com/mfinelli/setup-imagemagick) - github action to install imagemagick
 - [sharpie7/circuitjs1](https://github.com/sharpie7/circuitjs1) - Electronic Circuit Simulator in the Browser
-- [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 - [AlexNisnevich/untrusted](https://github.com/AlexNisnevich/untrusted) - A meta-JavaScript adventure game by Alex Nisnevich and Greg Shuflin.
 - [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.
 - [TerryCavanagh/VVVVVV](https://github.com/TerryCavanagh/VVVVVV) - The source code to VVVVVV! http://thelettervsixtim.es/
@@ -724,7 +729,7 @@
 
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG and WebP formats.   You can quickly reduce the file size (and resolution, if you wan
-- [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
+- [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
