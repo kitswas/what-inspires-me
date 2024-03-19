@@ -100,6 +100,7 @@
 
 ## Java 
 
+- [nipafx/modern-java-demo](https://github.com/nipafx/modern-java-demo) - Modern Java in Action
 - [fair-acc/chart-fx](https://github.com/fair-acc/chart-fx) - A scientific charting library focused on performance optimised real-time data visualisation at 25 Hz update rates for data sets with a few 10 thousand up to 5 million data points.
 - [eishay/jvm-serializers](https://github.com/eishay/jvm-serializers) - Benchmark comparing serialization libraries on the JVM
 - [pascaldekloe/colfer](https://github.com/pascaldekloe/colfer) - binary serialization format
