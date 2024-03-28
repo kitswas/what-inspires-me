@@ -108,6 +108,7 @@
 - [swift](#swift)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
+- [termux](#termux)
 - [testing](#testing)
 - [typescript](#typescript)
 - [visual-studio-code](#visual-studio-code)
@@ -132,6 +133,7 @@
 
 ## android 
 
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [pascaldekloe/colfer](https://github.com/pascaldekloe/colfer) - binary serialization format
 - [Moustachauve/cookie-editor](https://github.com/Moustachauve/cookie-editor) - A powerful browser extension to create, edit and delete cookies
@@ -361,6 +363,7 @@
 
 ## hacktoberfest 
 
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [iluwatar/java-design-patterns-vuepress-web](https://github.com/iluwatar/java-design-patterns-vuepress-web) - Next generation website for Java Design Patterns
 - [fair-acc/chart-fx](https://github.com/fair-acc/chart-fx) - A scientific charting library focused on performance optimised real-time data visualisation at 25 Hz update rates for data sets with a few 10 thousand up to 5 million data points.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
@@ -467,6 +470,7 @@
 
 ## linux 
 
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG and WebP formats.   You can quickly reduce the file size (and resolution, if you wan
@@ -724,7 +728,12 @@
 
 ## terminal 
 
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+
+## termux 
+
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
 ## testing 
 
