@@ -126,6 +126,7 @@
 
 ## JavaScript 
 
+- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [burntcustard/tiny-yurts](https://github.com/burntcustard/tiny-yurts) - Js13kGames 2023 4th place 🏅
 - [zed0/clang-format-configurator](https://github.com/zed0/clang-format-configurator) - Interactively view changes in clang-format configuration
 - [Moustachauve/cookie-editor](https://github.com/Moustachauve/cookie-editor) - A powerful browser extension to create, edit and delete cookies
