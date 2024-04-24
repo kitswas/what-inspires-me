@@ -35,6 +35,7 @@
 - [documentation](#documentation)
 - [education](#education)
 - [electron](#electron)
+- [embedded](#embedded)
 - [firefox](#firefox)
 - [flutter](#flutter)
 - [flutter-apps](#flutter-apps)
@@ -278,6 +279,10 @@
 
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+
+## embedded 
+
+- [platformio/platformio-core](https://github.com/platformio/platformio-core) - Your Gateway to Embedded Software Development Excellence :alien:
 
 ## firefox 
 
