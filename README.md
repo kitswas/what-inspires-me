@@ -24,6 +24,7 @@
 - [PowerShell](#powershell)
 - [Python](#python)
 - [R](#r)
+- [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Shell](#shell)
@@ -48,6 +49,7 @@
 
 ## C# # 
 
+- [coding-horror/basic-computer-games](https://github.com/coding-horror/basic-computer-games) - An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages. See https://coding-horror.github.io/basic
 - [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB) - GUI Tool To Removes Ads From Various Places Around Windows 11
 - [Danily07/Translumo](https://github.com/Danily07/Translumo) - Advanced real-time screen translator for games, hardcoded subtitles in videos, static text and etc.
 - [Primer-Learning/PrimerToolsUnity](https://github.com/Primer-Learning/PrimerToolsUnity) - Tool used for producing Primer YouTube videos
@@ -135,6 +137,7 @@
 
 ## JavaScript 
 
+- [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [burntcustard/tiny-yurts](https://github.com/burntcustard/tiny-yurts) - Js13kGames 2023 4th place 🏅
 - [zed0/clang-format-configurator](https://github.com/zed0/clang-format-configurator) - Interactively view changes in clang-format configuration
@@ -207,6 +210,10 @@
 - [IndrajeetPatil/ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) - Enhancing {ggplot2} plots with statistical analysis 📊📣
 - [ThinkR-open/golem](https://github.com/ThinkR-open/golem) - A Framework for Building Robust Shiny Apps
 - [rstudio/shiny](https://github.com/rstudio/shiny) - Easy interactive web applications with R
+
+## Ruby 
+
+- [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 
 ## Rust 
 
