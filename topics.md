@@ -37,6 +37,7 @@
 - [education](#education)
 - [electron](#electron)
 - [embedded](#embedded)
+- [ember](#ember)
 - [firefox](#firefox)
 - [flutter](#flutter)
 - [flutter-apps](#flutter-apps)
@@ -92,6 +93,7 @@
 - [p2p](#p2p)
 - [package-manager](#package-manager)
 - [pixel-art](#pixel-art)
+- [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
 - [programming](#programming)
@@ -99,11 +101,13 @@
 - [python](#python)
 - [pytorch](#pytorch)
 - [r](#r)
+- [rails](#rails)
 - [react](#react)
 - [react-native](#react-native)
 - [reactjs](#reactjs)
 - [redux](#redux)
 - [rest-api](#rest-api)
+- [ruby](#ruby)
 - [rust](#rust)
 - [security](#security)
 - [serverless](#serverless)
@@ -289,6 +293,10 @@
 
 - [platformio/platformio-core](https://github.com/platformio/platformio-core) - Your Gateway to Embedded Software Development Excellence :alien:
 
+## ember 
+
+- [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
+
 ## firefox 
 
 - [Moustachauve/cookie-editor](https://github.com/Moustachauve/cookie-editor) - A powerful browser extension to create, edit and delete cookies
@@ -354,6 +362,7 @@
 
 ## github 
 
+- [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
 - [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
@@ -465,6 +474,7 @@
 
 ## javascript 
 
+- [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [pascaldekloe/colfer](https://github.com/pascaldekloe/colfer) - binary serialization format
 - [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
@@ -598,6 +608,7 @@
 
 ## others 
 
+- [coding-horror/basic-computer-games](https://github.com/coding-horror/basic-computer-games) - An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages. See https://coding-horror.github.io/basic
 - [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB) - GUI Tool To Removes Ads From Various Places Around Windows 11
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
@@ -668,6 +679,10 @@
 - [CytopiaTeam/Cytopia](https://github.com/CytopiaTeam/Cytopia) - :deciduous_tree::house_with_garden::office::evergreen_tree: A city building simulation game
 - [markusmoenig/Eldiron](https://github.com/markusmoenig/Eldiron) - Create cross platform retro RPGs in 2D and 3D. Written in Rust.
 
+## postgresql 
+
+- [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
+
 ## powershell 
 
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
@@ -704,6 +719,10 @@
 - [ThinkR-open/golem](https://github.com/ThinkR-open/golem) - A Framework for Building Robust Shiny Apps
 - [rstudio/shiny](https://github.com/rstudio/shiny) - Easy interactive web applications with R
 
+## rails 
+
+- [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
+
 ## react 
 
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
@@ -725,6 +744,10 @@
 ## rest-api 
 
 - [wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) - 📱The official Wikipedia app for Android!
+
+## ruby 
+
+- [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 
 ## rust 
 
