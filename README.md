@@ -30,6 +30,7 @@
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [TypeScript](#typescript)
+- [Vue](#vue)
 
 ## ActionScript 
 
@@ -260,6 +261,10 @@
 - [mfinelli/setup-imagemagick](https://github.com/mfinelli/setup-imagemagick) - github action to install imagemagick
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [softmaple/softmaple](https://github.com/softmaple/softmaple) - A Paper Typesetting Editor
+
+## Vue 
+
+- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 
 
 ## License
