@@ -31,6 +31,7 @@
 - [Svelte](#svelte)
 - [TypeScript](#typescript)
 - [Vue](#vue)
+- [Zig](#zig)
 
 ## ActionScript 
 
@@ -95,7 +96,6 @@
 
 ## Dockerfile 
 
-- [codecrafters-io/build-your-own-http-server](https://github.com/codecrafters-io/build-your-own-http-server) - Definition for the http-server challenge.
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [FredTingaud/bench-runner](https://github.com/FredTingaud/bench-runner) - Docker runner for build-bench
 
@@ -267,6 +267,10 @@
 ## Vue 
 
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
+
+## Zig 
+
+- [codecrafters-io/build-your-own-http-server](https://github.com/codecrafters-io/build-your-own-http-server) - Definition for the http-server challenge.
 
 
 ## License
