@@ -597,6 +597,7 @@
 
 ## music 
 
+- [shriramters/chordcat](https://github.com/shriramters/chordcat) - Chord Naming App with MIDI Support
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [LMMS/lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
