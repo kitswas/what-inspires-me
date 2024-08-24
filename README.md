@@ -163,7 +163,7 @@
 - [AlexNisnevich/untrusted](https://github.com/AlexNisnevich/untrusted) - A meta-JavaScript adventure game by Alex Nisnevich and Greg Shuflin.
 - [avinash201199/Competitions-and-Programs-List](https://github.com/avinash201199/Competitions-and-Programs-List) - List of competitions with details for college students to participate and  to enhance their skills.
 - [therealglazou/bluegriffon](https://github.com/therealglazou/bluegriffon) - BlueGriffon, the Web editor
-- [coronasafe/admission_task](https://github.com/coronasafe/admission_task) - Global Digital Corps - Software Engineering Test Problem | Priority list
+- [ohcnetwork/admission_task](https://github.com/ohcnetwork/admission_task) - Global Digital Corps - Software Engineering Test Problem | Priority list
 - [particle-clicker/particle-clicker](https://github.com/particle-clicker/particle-clicker) - An addictive incremental game that teaches players the history of high energy particle physics
 
 ## Jupyter Notebook 
