@@ -244,6 +244,7 @@
 
 ## Shell 
 
+- [cszach/linux-on-lenovo-legion](https://github.com/cszach/linux-on-lenovo-legion) - :computer: Notes for using Linux on Lenovo Legion.
 - [tiagoad/suicide-linux](https://github.com/tiagoad/suicide-linux) - @qntm's Suicide Linux, now available on Docker!
 - [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
 - [codecrafters-io/build-your-own-http-server](https://github.com/codecrafters-io/build-your-own-http-server) - Definition for the http-server challenge.
