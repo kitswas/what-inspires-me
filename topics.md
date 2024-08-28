@@ -129,6 +129,7 @@
 - [testing](#testing)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
 - [vuejs](#vuejs)
 - [web-development](#web-development)
@@ -808,6 +809,7 @@
 
 ## rust 
 
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [milosgajdos/bot-banter](https://github.com/milosgajdos/bot-banter) - Go vs Rust AI bot voice conversation
@@ -889,6 +891,10 @@
 ## ubuntu 
 
 - [johnfanv2/LenovoLegionLinux](https://github.com/johnfanv2/LenovoLegionLinux) - Driver and tools for controlling Lenovo Legion laptops in Linux including fan control and power mode.
+
+## vim 
+
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 
 ## visual-studio-code 
 
