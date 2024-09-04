@@ -20,6 +20,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [Markdown](#markdown)
 - [Others](#others)
 - [PowerShell](#powershell)
 - [Python](#python)
@@ -180,13 +181,16 @@
 
 - [TheKing0x9/cuteness-overload](https://github.com/TheKing0x9/cuteness-overload) - A tiny puzzle platformer about saving the cute world from demon incursion.
 
+## Markdown 
+
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+
 ## Others 
 
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [DitheringIdiot/lowercase-able-code](https://github.com/DitheringIdiot/lowercase-able-code) - A list of code syntax that can be written in lowercase without altering how the code works.
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.
