@@ -68,6 +68,7 @@
 
 ## C++ 
 
+- [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) - 12 Weeks, 24 Lessons, IoT for All!
 - [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Play in your Browser! https://hypersomnia.io Made in 🇵🇱
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [shriramters/chordcat](https://github.com/shriramters/chordcat) - Chord Naming App with MIDI Support
@@ -116,6 +117,7 @@
 
 ## HTML 
 
+- [CounterFit-IoT/CounterFit](https://github.com/CounterFit-IoT/CounterFit) - A simulator for IoT sensors and actuators. This creates fake virtual sensors and actuators when the real ones won't fit on your counter 🤪.
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 - [itinerarium/phoneme-synthesis](https://github.com/itinerarium/phoneme-synthesis) - A browser-based tool to convert International Phonetic Alpha (IPA) phonetic notation to speech using the meSpeak.js package
 - [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++03/11/14/17/20/23/26)
