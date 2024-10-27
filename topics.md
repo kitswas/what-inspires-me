@@ -688,6 +688,7 @@
 
 ## others 
 
+- [mateidavid/zstr](https://github.com/mateidavid/zstr) - A C++ header-only ZLib wrapper
 - [qt-labs/vscodeext](https://github.com/qt-labs/vscodeext) - Qt extension for Visual Studio Code
 - [itinerarium/phoneme-synthesis](https://github.com/itinerarium/phoneme-synthesis) - A browser-based tool to convert International Phonetic Alpha (IPA) phonetic notation to speech using the meSpeak.js package
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance.
