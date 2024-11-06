@@ -119,6 +119,7 @@
 
 ## HTML 
 
+- [PavelLaptev/web-dark-ages](https://github.com/PavelLaptev/web-dark-ages) - 
 - [CounterFit-IoT/CounterFit](https://github.com/CounterFit-IoT/CounterFit) - A simulator for IoT sensors and actuators. This creates fake virtual sensors and actuators when the real ones won't fit on your counter 🤪.
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 - [itinerarium/phoneme-synthesis](https://github.com/itinerarium/phoneme-synthesis) - A browser-based tool to convert International Phonetic Alpha (IPA) phonetic notation to speech using the meSpeak.js package
