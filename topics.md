@@ -534,6 +534,7 @@
 
 ## javascript 
 
+- [mrpandey/d3graphTheory](https://github.com/mrpandey/d3graphTheory) - :boom: Interactive and colorful :art: graph theory tutorials made using d3.js :zap:
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
