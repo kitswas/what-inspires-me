@@ -10,7 +10,6 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
-- [CMake](#cmake)
 - [CSS](#css)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
@@ -93,10 +92,6 @@
 - [visualboyadvance-m/visualboyadvance-m](https://github.com/visualboyadvance-m/visualboyadvance-m) - The continuing development of the legendary VBA gameboy advance emulator.
 - [meunierd/upset](https://github.com/meunierd/upset) - Mirror of byuu's ups patcher
 - [widelands/widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and d
-
-## CMake 
-
-- [franneck94/CppProjectTemplate](https://github.com/franneck94/CppProjectTemplate) - C++ project template with unit-tests, documentation, ci-testing and workflows.
 
 ## CSS 
 
@@ -222,6 +217,7 @@
 
 ## Python 
 
+- [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
 - [platformio/platformio-core](https://github.com/platformio/platformio-core) - Your Gateway to Embedded Software Development Excellence :alien:
