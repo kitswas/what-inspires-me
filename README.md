@@ -200,7 +200,6 @@
 
 ## Others 
 
-- [Digitalone1/EasyEffects-Presets](https://github.com/Digitalone1/EasyEffects-Presets) - Presets for EasyEffects and PulseEffects.
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [DitheringIdiot/lowercase-able-code](https://github.com/DitheringIdiot/lowercase-able-code) - A list of code syntax that can be written in lowercase without altering how the code works.
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
@@ -265,6 +264,7 @@
 
 ## Shell 
 
+- [JackHack96/EasyEffects-Presets](https://github.com/JackHack96/EasyEffects-Presets) - Collection of PulseEffects presets
 - [cszach/linux-on-lenovo-legion](https://github.com/cszach/linux-on-lenovo-legion) - :computer: Notes for using Linux on Lenovo Legion.
 - [tiagoad/suicide-linux](https://github.com/tiagoad/suicide-linux) - @qntm's Suicide Linux, now available on Docker!
 - [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
