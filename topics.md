@@ -698,6 +698,7 @@
 
 ## others 
 
+- [unexploredtest/neural-networks-and-deep-learning](https://github.com/unexploredtest/neural-networks-and-deep-learning) - Code samples for my book "Neural Networks and Deep Learning"
 - [soundengineering/infrastructure](https://github.com/soundengineering/infrastructure) - Any and all code related to the hosting of RVRB
 - [soundengineering/RVRB](https://github.com/soundengineering/RVRB) - 
 - [JackHack96/EasyEffects-Presets](https://github.com/JackHack96/EasyEffects-Presets) - Collection of PulseEffects presets
