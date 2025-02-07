@@ -218,6 +218,7 @@
 
 ## Python 
 
+- [unexploredtest/neural-networks-and-deep-learning](https://github.com/unexploredtest/neural-networks-and-deep-learning) - Code samples for my book "Neural Networks and Deep Learning"
 - [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
