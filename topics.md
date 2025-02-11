@@ -730,7 +730,6 @@
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [tiagoad/suicide-linux](https://github.com/tiagoad/suicide-linux) - @qntm's Suicide Linux, now available on Docker!
 - [DitheringIdiot/lowercase-able-code](https://github.com/DitheringIdiot/lowercase-able-code) - A list of code syntax that can be written in lowercase without altering how the code works.
-- [Primer-Learning/PrimerToolsUnity](https://github.com/Primer-Learning/PrimerToolsUnity) - Tool used for producing Primer YouTube videos
 - [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
 - [burntcustard/tiny-yurts](https://github.com/burntcustard/tiny-yurts) - Js13kGames 2023 4th place 🏅
 - [codecrafters-io/build-your-own-http-server](https://github.com/codecrafters-io/build-your-own-http-server) - Definition for the http-server challenge.
