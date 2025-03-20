@@ -360,6 +360,7 @@
 
 ## font 
 
+- [monotty/fonts](https://github.com/monotty/fonts) - Monospaced Fonts for CTL Scripts (e.g. Devanagari, Tamil)
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 
 ## framework 
@@ -941,6 +942,7 @@
 
 ## terminal 
 
+- [monotty/fonts](https://github.com/monotty/fonts) - Monospaced Fonts for CTL Scripts (e.g. Devanagari, Tamil)
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
