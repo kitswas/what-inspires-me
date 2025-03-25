@@ -710,6 +710,7 @@
 
 ## others 
 
+- [shuhanmirza/Bengali-Poem-Dataset](https://github.com/shuhanmirza/Bengali-Poem-Dataset) - 🗄️ Stylometric Dataset of Bengali Poems
 - [RoootTheFox/syncmeow](https://github.com/RoootTheFox/syncmeow) - Wrapper of syncthing for Android.
 - [lionblaze55/syncthing-android-reborn](https://github.com/lionblaze55/syncthing-android-reborn) - Updated wrapper of syncthing for Android.
 - [WolfireGames/overgrowth](https://github.com/WolfireGames/overgrowth) - Open Source codebase of the game Overgrowth by Wolfire Games LLC
