@@ -204,6 +204,7 @@
 
 ## c 
 
+- [vurtun/lib](https://github.com/vurtun/lib) - single header libraries for C/C++
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 - [pascaldekloe/colfer](https://github.com/pascaldekloe/colfer) - binary serialization format
@@ -572,6 +573,7 @@
 
 ## json 
 
+- [vurtun/lib](https://github.com/vurtun/lib) - single header libraries for C/C++
 - [widelands/widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and d
 
 ## kotlin 
