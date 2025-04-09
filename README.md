@@ -204,6 +204,7 @@
 
 ## Others 
 
+- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [monotty/fonts](https://github.com/monotty/fonts) - Monospaced Fonts for CTL Scripts (e.g. Devanagari, Tamil)
 - [soundengineering/infrastructure](https://github.com/soundengineering/infrastructure) - Any and all code related to the hosting of RVRB
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
