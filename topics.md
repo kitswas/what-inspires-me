@@ -714,6 +714,7 @@
 
 ## others 
 
+- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [shuhanmirza/Bengali-Poem-Dataset](https://github.com/shuhanmirza/Bengali-Poem-Dataset) - 🗄️ Stylometric Dataset of Bengali Poems
 - [RoootTheFox/syncmeow](https://github.com/RoootTheFox/syncmeow) - Wrapper of syncthing for Android.
 - [lionblaze55/syncthing-android-reborn](https://github.com/lionblaze55/syncthing-android-reborn) - Updated wrapper of syncthing for Android.
