@@ -35,6 +35,7 @@
 - [database](#database)
 - [deep-learning](#deep-learning)
 - [deno](#deno)
+- [development](#development)
 - [documentation](#documentation)
 - [education](#education)
 - [electron](#electron)
@@ -312,6 +313,10 @@
 ## deno 
 
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
+
+## development 
+
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## documentation 
 
