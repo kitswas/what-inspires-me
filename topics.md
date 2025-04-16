@@ -719,6 +719,7 @@
 
 ## others 
 
+- [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [shuhanmirza/Bengali-Poem-Dataset](https://github.com/shuhanmirza/Bengali-Poem-Dataset) - 🗄️ Stylometric Dataset of Bengali Poems
 - [RoootTheFox/syncmeow](https://github.com/RoootTheFox/syncmeow) - Wrapper of syncthing for Android.
