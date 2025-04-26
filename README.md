@@ -160,6 +160,7 @@
 
 ## JavaScript 
 
+- [josephch405/ML-Playground](https://github.com/josephch405/ML-Playground) - A Playground for machine learning techniques
 - [soundengineering/RVRB](https://github.com/soundengineering/RVRB) - 
 - [mrpandey/d3graphTheory](https://github.com/mrpandey/d3graphTheory) - :boom: Interactive and colorful :art: graph theory tutorials made using d3.js :zap:
 - [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
