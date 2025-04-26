@@ -638,6 +638,7 @@
 
 ## machine-learning 
 
+- [josephch405/ML-Playground](https://github.com/josephch405/ML-Playground) - A Playground for machine learning techniques
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
 - [openhackathons-org/gpubootcamp](https://github.com/openhackathons-org/gpubootcamp) - This repository consists for gpu bootcamp material for HPC and AI
 
