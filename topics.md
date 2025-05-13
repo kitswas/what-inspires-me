@@ -137,6 +137,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [ui](#ui)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
 - [vuejs](#vuejs)
@@ -989,6 +990,10 @@
 ## ubuntu 
 
 - [johnfanv2/LenovoLegionLinux](https://github.com/johnfanv2/LenovoLegionLinux) - Driver and tools for controlling Lenovo Legion laptops in Linux including fan control and power mode.
+
+## ui 
+
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 
 ## vim 
 
