@@ -580,10 +580,12 @@
 
 ## jekyll 
 
+- [hydecorp/hydejack](https://github.com/hydecorp/hydejack) - A boutique Jekyll theme for hackers, nerds, and academics
 - [pages-themes/slate](https://github.com/pages-themes/slate) - Slate is a Jekyll theme for GitHub Pages
 
 ## jekyll-theme 
 
+- [hydecorp/hydejack](https://github.com/hydecorp/hydejack) - A boutique Jekyll theme for hackers, nerds, and academics
 - [pages-themes/slate](https://github.com/pages-themes/slate) - Slate is a Jekyll theme for GitHub Pages
 
 ## json 
@@ -607,6 +609,7 @@
 
 ## latex 
 
+- [hydecorp/hydejack](https://github.com/hydecorp/hydejack) - A boutique Jekyll theme for hackers, nerds, and academics
 - [softmaple/softmaple](https://github.com/softmaple/softmaple) - A Paper Typesetting Editor
 
 ## learning 
