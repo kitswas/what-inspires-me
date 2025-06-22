@@ -274,6 +274,7 @@
 
 ## SCSS 
 
+- [hydecorp/hydejack](https://github.com/hydecorp/hydejack) - A boutique Jekyll theme for hackers, nerds, and academics
 - [pages-themes/slate](https://github.com/pages-themes/slate) - Slate is a Jekyll theme for GitHub Pages
 - [chaselambda/makefiletutorial](https://github.com/chaselambda/makefiletutorial) - Learn make by example
 
