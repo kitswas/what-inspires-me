@@ -20,6 +20,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Others](#others)
 - [PowerShell](#powershell)
@@ -201,6 +202,10 @@
 ## Lua 
 
 - [TheKing0x9/cuteness-overload](https://github.com/TheKing0x9/cuteness-overload) - A tiny puzzle platformer about saving the cute world from demon incursion.
+
+## Makefile 
+
+- [unimcp/mcpbench](https://github.com/unimcp/mcpbench) - MCPBench is the open standard for compatibility testing of various Model Context Protocol (MCP https://github.com/modelcontextprotocol) client and server SDK implementations.
 
 ## Markdown 
 
