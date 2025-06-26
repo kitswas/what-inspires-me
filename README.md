@@ -285,6 +285,7 @@
 
 ## Shell 
 
+- [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline) - Linux Distributions Timeline
 - [JackHack96/EasyEffects-Presets](https://github.com/JackHack96/EasyEffects-Presets) - Collection of PulseEffects presets
 - [cszach/linux-on-lenovo-legion](https://github.com/cszach/linux-on-lenovo-legion) - :computer: Notes for using Linux on Lenovo Legion.
 - [tiagoad/suicide-linux](https://github.com/tiagoad/suicide-linux) - @qntm's Suicide Linux, now available on Docker!
