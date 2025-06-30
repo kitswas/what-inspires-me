@@ -35,6 +35,7 @@
 - [database](#database)
 - [deep-learning](#deep-learning)
 - [deno](#deno)
+- [design](#design)
 - [development](#development)
 - [documentation](#documentation)
 - [education](#education)
@@ -92,6 +93,7 @@
 - [microsoft](#microsoft)
 - [music](#music)
 - [natural-language-processing](#natural-language-processing)
+- [nestjs](#nestjs)
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
 - [nodejs](#nodejs)
@@ -143,6 +145,7 @@
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
 - [vuejs](#vuejs)
+- [web](#web)
 - [web-development](#web-development)
 - [webapp](#webapp)
 - [website](#website)
@@ -317,6 +320,10 @@
 
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
 
+## design 
+
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
+
 ## development 
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -475,14 +482,18 @@
 
 ## good-first-issue 
 
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 
 ## graphql 
 
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 
 ## hacktoberfest 
 
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [amitmerchant1990/reverie](https://github.com/amitmerchant1990/reverie) - :art: A ridiculously elegant Jekyll theme.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
@@ -526,6 +537,7 @@
 
 ## image-processing 
 
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [BhanuPrakashNani/Image_Processing](https://github.com/BhanuPrakashNani/Image_Processing) - Image Processing techniques using OpenCV and Python.
 
@@ -565,6 +577,7 @@
 
 ## javascript 
 
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [faisal-shohag/leetcode_api](https://github.com/faisal-shohag/leetcode_api) - A working node js api. Specially with submission calendar.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
@@ -580,11 +593,13 @@
 
 ## jekyll 
 
+- [amitmerchant1990/reverie](https://github.com/amitmerchant1990/reverie) - :art: A ridiculously elegant Jekyll theme.
 - [hydecorp/hydejack](https://github.com/hydecorp/hydejack) - A boutique Jekyll theme for hackers, nerds, and academics
 - [pages-themes/slate](https://github.com/pages-themes/slate) - Slate is a Jekyll theme for GitHub Pages
 
 ## jekyll-theme 
 
+- [amitmerchant1990/reverie](https://github.com/amitmerchant1990/reverie) - :art: A ridiculously elegant Jekyll theme.
 - [hydecorp/hydejack](https://github.com/hydecorp/hydejack) - A boutique Jekyll theme for hackers, nerds, and academics
 - [pages-themes/slate](https://github.com/pages-themes/slate) - Slate is a Jekyll theme for GitHub Pages
 
@@ -687,6 +702,10 @@
 
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 
+## nestjs 
+
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+
 ## neural-network 
 
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
@@ -705,6 +724,7 @@
 
 ## open-source 
 
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 - [saketkc/fos-proposals](https://github.com/saketkc/fos-proposals) - :gift_heart: :penguin: Archive of GSoC proposals
@@ -829,6 +849,7 @@
 
 ## postgresql 
 
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 
@@ -886,6 +907,7 @@
 
 ## react 
 
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 
@@ -895,6 +917,7 @@
 
 ## reactjs 
 
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 - [softmaple/softmaple](https://github.com/softmaple/softmaple) - A Paper Typesetting Editor
 
@@ -996,6 +1019,7 @@
 
 ## typescript 
 
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
@@ -1026,6 +1050,10 @@
 ## vuejs 
 
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
+
+## web 
+
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 
 ## web-development 
 
