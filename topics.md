@@ -756,6 +756,7 @@
 
 ## others 
 
+- [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [unimcp/mcpbench](https://github.com/unimcp/mcpbench) - MCPBench is the open standard for compatibility testing of various Model Context Protocol (MCP https://github.com/modelcontextprotocol) client and server SDK implementations.
 - [modelcontextprotocol/rust-sdk](https://github.com/modelcontextprotocol/rust-sdk) - The official Rust SDK for the Model Context Protocol
 - [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) - Specification and documentation for the Model Context Protocol
