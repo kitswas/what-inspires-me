@@ -235,6 +235,7 @@
 
 ## Python 
 
+- [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [shuhanmirza/Bengali-Poem-Dataset](https://github.com/shuhanmirza/Bengali-Poem-Dataset) - 🗄️ Stylometric Dataset of Bengali Poems
 - [unexploredtest/neural-networks-and-deep-learning](https://github.com/unexploredtest/neural-networks-and-deep-learning) - Code samples for my book "Neural Networks and Deep Learning"
