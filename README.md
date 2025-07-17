@@ -138,7 +138,6 @@
 
 ## Java 
 
-- [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 - [RoootTheFox/syncmeow](https://github.com/RoootTheFox/syncmeow) - Wrapper of syncthing for Android.
 - [lionblaze55/syncthing-android-reborn](https://github.com/lionblaze55/syncthing-android-reborn) - Updated wrapper of syncthing for Android.
 - [google/error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors
