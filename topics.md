@@ -36,6 +36,7 @@
 - [deep-learning](#deep-learning)
 - [deno](#deno)
 - [design](#design)
+- [developer-tools](#developer-tools)
 - [development](#development)
 - [documentation](#documentation)
 - [education](#education)
@@ -325,6 +326,14 @@
 ## design 
 
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editi
+
+## developer-tools 
+
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
+- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
+- [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 
 ## development 
 
