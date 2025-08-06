@@ -118,7 +118,7 @@
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [karanpratapsingh/learn-go](https://github.com/karanpratapsingh/learn-go) - Master the fundamentals and advanced features of the Go programming language
 
