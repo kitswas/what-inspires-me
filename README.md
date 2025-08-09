@@ -25,6 +25,7 @@
 - [Others](#others)
 - [PowerShell](#powershell)
 - [Python](#python)
+- [QML](#qml)
 - [R](#r)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -114,6 +115,7 @@
 
 ## Go 
 
+- [shriramters/sowing](https://github.com/shriramters/sowing) - Simple Org-mode WIki eNGine
 - [runmedev/runme](https://github.com/runmedev/runme) - DevOps Notebooks Built with Markdown
 - [probonopd/go-appimage](https://github.com/probonopd/go-appimage) - Go implementation of AppImage tools
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
@@ -236,6 +238,7 @@
 
 ## Python 
 
+- [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -253,6 +256,10 @@
 - [BhanuPrakashNani/Image_Processing](https://github.com/BhanuPrakashNani/Image_Processing) - Image Processing techniques using OpenCV and Python.
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+## QML 
+
+- [terslang/LocalTranslate](https://github.com/terslang/LocalTranslate) - Translate offline using Firefox Translation Models
 
 ## R 
 
