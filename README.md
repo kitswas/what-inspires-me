@@ -166,6 +166,7 @@
 
 ## JavaScript 
 
+- [p2r3/beheader](https://github.com/p2r3/beheader) - Polyglot generator for media files
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [josephch405/ML-Playground](https://github.com/josephch405/ML-Playground) - A Playground for machine learning techniques
 - [soundengineering/RVRB](https://github.com/soundengineering/RVRB) - 
