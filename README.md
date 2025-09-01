@@ -18,6 +18,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [KiCad Layout](#kicad-layout)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Makefile](#makefile)
@@ -201,6 +202,10 @@
 
 - [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) - 12 Weeks, 24 Lessons, IoT for All!
 - [openhackathons-org/gpubootcamp](https://github.com/openhackathons-org/gpubootcamp) - This repository consists for gpu bootcamp material for HPC and AI
+
+## KiCad Layout 
+
+- [byrantech/laptop](https://github.com/byrantech/laptop) - anyon_e, a highly integrated, high end, open source laptop. Attempt the impossible.
 
 ## Kotlin 
 
