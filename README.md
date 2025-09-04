@@ -33,6 +33,7 @@
 - [SCSS](#scss)
 - [Shell](#shell)
 - [Svelte](#svelte)
+- [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vue](#vue)
 - [Zig](#zig)
@@ -325,6 +326,10 @@
 
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [johannchopin/stackoverflow-readme-profile](https://github.com/johannchopin/stackoverflow-readme-profile) - Easily share your Stackoverflow's profile on your README
+
+## TeX 
+
+- [the-litte-book-of/linear-algebra](https://github.com/the-litte-book-of/linear-algebra) - There is hardly any theory which is more elementary than linear algebra, in spite of the fact that generations of professors and textbook writers have obscured its simplicity by preposterous calculati
 
 ## TypeScript 
 
