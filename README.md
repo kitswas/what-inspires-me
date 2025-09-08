@@ -330,7 +330,7 @@
 
 ## TeX 
 
-- [the-litte-book-of/linear-algebra](https://github.com/the-litte-book-of/linear-algebra) - There is hardly any theory which is more elementary than linear algebra, in spite of the fact that generations of professors and textbook writers have obscured its simplicity by preposterous calculati
+- [little-book-of/linear-algebra](https://github.com/little-book-of/linear-algebra) - There is hardly any theory which is more elementary than linear algebra, in spite of the fact that generations of professors and textbook writers have obscured its simplicity by preposterous calculati
 
 ## TypeScript 
 
