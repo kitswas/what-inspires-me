@@ -577,6 +577,7 @@
 
 ## image-processing 
 
+- [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scr
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editi
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [BhanuPrakashNani/Image_Processing](https://github.com/BhanuPrakashNani/Image_Processing) - Image Processing techniques using OpenCV and Python.
@@ -842,7 +843,7 @@
 - [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB) - GUI Tool To Remove Ads From Various Places Around Windows 11
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
-- [Danily07/Translumo](https://github.com/Danily07/Translumo) - Advanced real-time screen translator for games, hardcoded subtitles in videos, static text and etc.
+- [ramjke/Translumo](https://github.com/ramjke/Translumo) - Advanced real-time screen translator for games, hardcoded subtitles in videos, static text and etc.
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
 - [ridiculousfish/cdecl-blocks](https://github.com/ridiculousfish/cdecl-blocks) - The venerable cdecl, with Apple blocks support
