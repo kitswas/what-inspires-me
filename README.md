@@ -335,6 +335,7 @@
 
 ## TypeScript 
 
+- [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [zasper-io/zasper](https://github.com/zasper-io/zasper) - High Performace IDE for Jupyter Notebooks
 - [httpcats/http.cat](https://github.com/httpcats/http.cat) - :cat: HTTP Cats API
 - [rubynor/bigfive-web](https://github.com/rubynor/bigfive-web) - Website for taking personality tests
