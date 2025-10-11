@@ -160,6 +160,7 @@
 - [webapp](#webapp)
 - [website](#website)
 - [windows](#windows)
+- [youtube](#youtube)
 
 ## 3d 
 
@@ -1178,6 +1179,11 @@
 - [widelands/widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and d
 - [codenameone/CodenameOne](https://github.com/codenameone/CodenameOne) - Cross-platform framework for building truly native mobile apps with Java or Kotlin. Write Once Run Anywhere support for iOS, Android, Desktop & Web.
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
+
+## youtube 
+
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 
 
 ## License
