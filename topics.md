@@ -145,6 +145,8 @@
 - [statistics](#statistics)
 - [svelte](#svelte)
 - [swift](#swift)
+- [tailwind](#tailwind)
+- [tailwindcss](#tailwindcss)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [termux](#termux)
@@ -153,6 +155,7 @@
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [ui](#ui)
+- [ui-design](#ui-design)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
 - [vuejs](#vuejs)
@@ -312,6 +315,7 @@
 
 ## css 
 
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [jothepro/doxygen-awesome-css](https://github.com/jothepro/doxygen-awesome-css) - Custom CSS theme for doxygen html-documentation with lots of customization parameters.
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 - [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
@@ -1093,6 +1097,7 @@
 
 ## svelte 
 
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 - [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
@@ -1100,6 +1105,14 @@
 ## swift 
 
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
+
+## tailwind 
+
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
+
+## tailwindcss 
+
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
 ## tensorflow 
 
@@ -1147,6 +1160,10 @@
 ## ui 
 
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
+
+## ui-design 
+
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
 ## vim 
 
