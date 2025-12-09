@@ -20,6 +20,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [KiCad Layout](#kicad-layout)
 - [Kotlin](#kotlin)
+- [LLVM](#llvm)
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
@@ -170,6 +171,7 @@
 
 ## JavaScript 
 
+- [eisenwave/cdecl-plus](https://github.com/eisenwave/cdecl-plus) - Similar to cdecl.org, but with broader support for language features. Static web page which supports file protocol. Parsing and to-prose conversion happen in the front-end, resulting in instant feedba
 - [p2r3/beheader](https://github.com/p2r3/beheader) - Polyglot generator for media files
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [josephch405/ML-Playground](https://github.com/josephch405/ML-Playground) - A Playground for machine learning techniques
@@ -217,6 +219,10 @@
 - [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) - All in one emulator on Android!
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
 - [wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) - 📱The official Wikipedia app for Android!
+
+## LLVM 
+
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 
 ## Lua 
 
@@ -291,6 +297,7 @@
 
 ## Rust 
 
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [qltysh/qlty](https://github.com/qltysh/qlty) - 💎 Code quality CLI for universal linting, auto-formatting, security scanning, and maintainability
