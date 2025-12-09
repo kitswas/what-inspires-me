@@ -85,6 +85,7 @@
 - [javascript](#javascript)
 - [jekyll](#jekyll)
 - [jekyll-theme](#jekyll-theme)
+- [js](#js)
 - [json](#json)
 - [kotlin](#kotlin)
 - [language](#language)
@@ -117,6 +118,7 @@
 - [others](#others)
 - [p2p](#p2p)
 - [package-manager](#package-manager)
+- [parsing](#parsing)
 - [pixel-art](#pixel-art)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
@@ -249,6 +251,7 @@
 
 ## c 
 
+- [eisenwave/cdecl-plus](https://github.com/eisenwave/cdecl-plus) - Similar to cdecl.org, but with broader support for language features. Static web page which supports file protocol. Parsing and to-prose conversion happen in the front-end, resulting in instant feedba
 - [vurtun/lib](https://github.com/vurtun/lib) - single header libraries for C/C++
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
@@ -318,8 +321,9 @@
 
 ## cpp 
 
+- [eisenwave/cdecl-plus](https://github.com/eisenwave/cdecl-plus) - Similar to cdecl.org, but with broader support for language features. Static web page which supports file protocol. Parsing and to-prose conversion happen in the front-end, resulting in instant feedba
 - [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) - 12 Weeks, 24 Lessons, IoT for All!
-- [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Play in your Browser! https://hypersomnia.io Made in 🇵🇱
+- [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Web version: https://play.hypersomnia.io Made in 🇵🇱
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++03/11/14/17/20/23/26)
 - [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
@@ -376,7 +380,7 @@
 
 ## design 
 
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editi
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
 
 ## developer-tools 
 
@@ -465,7 +469,7 @@
 
 ## game 
 
-- [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Play in your Browser! https://hypersomnia.io Made in 🇵🇱
+- [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Web version: https://play.hypersomnia.io Made in 🇵🇱
 - [Uriopass/Egregoria](https://github.com/Uriopass/Egregoria) - 3D City Builder without a grid
 - [citybound/citybound](https://github.com/citybound/citybound) - A work-in-progress, open-source, multi-player city simulation game.
 - [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
@@ -478,7 +482,7 @@
 
 ## game-development 
 
-- [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Play in your Browser! https://hypersomnia.io Made in 🇵🇱
+- [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Web version: https://play.hypersomnia.io Made in 🇵🇱
 - [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 - [jukibom/FlyDangerous](https://github.com/jukibom/FlyDangerous) - A love letter to the Elite Dangerous racing community ❤
 - [markusmoenig/Eldiron](https://github.com/markusmoenig/Eldiron) - Create cross-platform classic RPGs in 2D and 3D with powerful built-in world editing tools.
@@ -492,7 +496,7 @@
 
 ## gamedev 
 
-- [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Play in your Browser! https://hypersomnia.io Made in 🇵🇱
+- [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Web version: https://play.hypersomnia.io Made in 🇵🇱
 - [Uriopass/Egregoria](https://github.com/Uriopass/Egregoria) - 3D City Builder without a grid
 - [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 - [markusmoenig/Eldiron](https://github.com/markusmoenig/Eldiron) - Create cross-platform classic RPGs in 2D and 3D with powerful built-in world editing tools.
@@ -626,7 +630,7 @@
 
 - [Akylas/OSS-DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) - Document scanning app
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scr
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editi
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [BhanuPrakashNani/Image_Processing](https://github.com/BhanuPrakashNani/Image_Processing) - Image Processing techniques using OpenCV and Python.
 
@@ -697,6 +701,10 @@
 - [amitmerchant1990/reverie](https://github.com/amitmerchant1990/reverie) - :art: A ridiculously elegant Jekyll theme.
 - [hydecorp/hydejack](https://github.com/hydecorp/hydejack) - A boutique Jekyll theme for hackers, nerds, and academics
 - [pages-themes/slate](https://github.com/pages-themes/slate) - Slate is a Jekyll theme for GitHub Pages
+
+## js 
+
+- [eisenwave/cdecl-plus](https://github.com/eisenwave/cdecl-plus) - Similar to cdecl.org, but with broader support for language features. Static web page which supports file protocol. Parsing and to-prose conversion happen in the front-end, resulting in instant feedba
 
 ## json 
 
@@ -866,6 +874,7 @@
 
 ## others 
 
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [perixtar/2025-Tech-OA-by-FastPrep](https://github.com/perixtar/2025-Tech-OA-by-FastPrep) - List of Tech Company OAs. Save your time from finding them all over the internet.
 - [SebaUbuntu/Athena](https://github.com/SebaUbuntu/Athena) - Open source Material You Android device info app
 - [SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels) - 
@@ -962,9 +971,13 @@
 - [platformio/platformio-core](https://github.com/platformio/platformio-core) - Your Gateway to Embedded Software Development Excellence :alien:
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 
+## parsing 
+
+- [eisenwave/cdecl-plus](https://github.com/eisenwave/cdecl-plus) - Similar to cdecl.org, but with broader support for language features. Static web page which supports file protocol. Parsing and to-prose conversion happen in the front-end, resulting in instant feedba
+
 ## pixel-art 
 
-- [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Play in your Browser! https://hypersomnia.io Made in 🇵🇱
+- [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Web version: https://play.hypersomnia.io Made in 🇵🇱
 - [CytopiaTeam/Cytopia](https://github.com/CytopiaTeam/Cytopia) - :deciduous_tree::house_with_garden::office::evergreen_tree: A city building simulation game
 - [markusmoenig/Eldiron](https://github.com/markusmoenig/Eldiron) - Create cross-platform classic RPGs in 2D and 3D with powerful built-in world editing tools.
 
@@ -1004,6 +1017,7 @@
 
 ## python 
 
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) - 12 Weeks, 24 Lessons, IoT for All!
