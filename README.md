@@ -258,6 +258,7 @@
 
 ## Python 
 
+- [rendercv/rendercv](https://github.com/rendercv/rendercv) - Typst-based CV/resume generator for academics and engineers
 - [SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels) - 
 - [r-three/common-pile](https://github.com/r-three/common-pile) - Code for collecting, processing, and preparing datasets for the Common Pile
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
