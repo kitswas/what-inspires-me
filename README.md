@@ -135,7 +135,6 @@
 
 ## HTML 
 
-- [untra/polyglot](https://github.com/untra/polyglot) - :abc: Multilingual and i18n support tool for Jekyll Blogs
 - [faisal-shohag/leetcode_api](https://github.com/faisal-shohag/leetcode_api) - A working node js api. Specially with submission calendar.
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [aosabook/aosabook](https://github.com/aosabook/aosabook) - The Architecture of Open Source Applications
@@ -299,6 +298,7 @@
 
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
+- [untra/polyglot](https://github.com/untra/polyglot) - :abc: Multilingual and i18n support tool for Jekyll Blogs
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 
 ## Rust 
