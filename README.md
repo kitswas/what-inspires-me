@@ -122,6 +122,7 @@
 
 ## Go 
 
+- [golang/go](https://github.com/golang/go) - The Go programming language
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [shriramters/sowing](https://github.com/shriramters/sowing) - Simple Org-mode WIki eNGine
@@ -130,7 +131,7 @@
 - [dicedb/dice](https://github.com/dicedb/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [karanpratapsingh/learn-go](https://github.com/karanpratapsingh/learn-go) - Master the fundamentals and advanced features of the Go programming language
@@ -235,6 +236,7 @@
 
 ## Makefile 
 
+- [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [unimcp/mcpbench](https://github.com/unimcp/mcpbench) - MCPBench is the open standard for compatibility testing of various Model Context Protocol (MCP https://github.com/modelcontextprotocol) client and server SDK implementations.
 
 ## Markdown 
