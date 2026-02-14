@@ -631,6 +631,7 @@
 
 ## hacktoberfest 
 
+- [apache/accumulo](https://github.com/apache/accumulo) - Apache Accumulo
 - [rubynor/bigfive-web](https://github.com/rubynor/bigfive-web) - Website for taking personality tests
 - [probonopd/go-appimage](https://github.com/probonopd/go-appimage) - Go implementation of AppImage tools
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
