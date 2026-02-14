@@ -152,6 +152,7 @@
 
 ## Java 
 
+- [apache/accumulo](https://github.com/apache/accumulo) - Apache Accumulo
 - [nikita36078/J2ME-Loader](https://github.com/nikita36078/J2ME-Loader) - A J2ME emulator for Android.
 - [AndorsTrailRelease/andors-trail](https://github.com/AndorsTrailRelease/andors-trail) - Andor's Trail
 - [lionblaze55/syncthing-android-reborn](https://github.com/lionblaze55/syncthing-android-reborn) - Updated wrapper of syncthing for Android.
