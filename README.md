@@ -25,6 +25,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Others](#others)
+- [PHP](#php)
 - [PowerShell](#powershell)
 - [Python](#python)
 - [QML](#qml)
@@ -261,6 +262,10 @@
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.
 - [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+
+## PHP 
+
+- [errorinn/netsim](https://github.com/errorinn/netsim) - Web-based network simulator for teaching hacking to high schoolers
 
 ## PowerShell 
 
