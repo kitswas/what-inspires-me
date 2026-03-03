@@ -182,6 +182,7 @@
 
 ## JavaScript 
 
+- [mozilla/web-ext](https://github.com/mozilla/web-ext) - A command line tool to help build, run, and test web extensions
 - [railsblueprint/blueprint-mcp](https://github.com/railsblueprint/blueprint-mcp) - MCP server for browser automation across Chrome, Firefox, and Safari using real browser profiles
 - [eisenwave/cdecl-plus](https://github.com/eisenwave/cdecl-plus) - Similar to cdecl.org, but with broader support for language features. Static web page which supports file protocol. Parsing and to-prose conversion happen in the front-end, resulting in instant feedba
 - [p2r3/beheader](https://github.com/p2r3/beheader) - Polyglot generator for media files
