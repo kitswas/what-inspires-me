@@ -322,6 +322,7 @@
 
 ## Rust 
 
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
@@ -383,6 +384,7 @@
 
 ## TypeScript 
 
+- [olucasandrade/youjustneedpostgres](https://github.com/olucasandrade/youjustneedpostgres) - I use Postgres... a lot. You probably don't need more than that depending on your stage. This website will convince you.
 - [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
 - [ueokande/playwright-webextext](https://github.com/ueokande/playwright-webextext) - Playwright extensions for tesiting WebExtensions
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
