@@ -1006,6 +1006,7 @@
 
 ## others 
 
+- [neo4j-labs/ai-governor](https://github.com/neo4j-labs/ai-governor) - 
 - [olucasandrade/youjustneedpostgres](https://github.com/olucasandrade/youjustneedpostgres) - I use Postgres... a lot. You probably don't need more than that depending on your stage. This website will convince you.
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
