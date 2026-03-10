@@ -279,6 +279,7 @@
 
 ## Python 
 
+- [neo4j-labs/ai-governor](https://github.com/neo4j-labs/ai-governor) - 
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
