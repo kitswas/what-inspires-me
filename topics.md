@@ -49,6 +49,7 @@
 - [developer-tools](#developer-tools)
 - [development](#development)
 - [devops](#devops)
+- [distributed-systems](#distributed-systems)
 - [documentation](#documentation)
 - [education](#education)
 - [electron](#electron)
@@ -467,6 +468,10 @@
 
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [runmedev/runme](https://github.com/runmedev/runme) - DevOps Notebooks Built with Markdown
+
+## distributed-systems 
+
+- [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 
 ## documentation 
 
