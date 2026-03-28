@@ -495,6 +495,7 @@
 
 ## embedded 
 
+- [google/wasefire](https://github.com/google/wasefire) - Secure firmware framework focusing on developer experience
 - [platformio/platformio-core](https://github.com/platformio/platformio-core) - Your Gateway to Embedded Software Development Excellence :alien:
 
 ## ember 
@@ -544,6 +545,7 @@
 
 ## framework 
 
+- [google/wasefire](https://github.com/google/wasefire) - Secure firmware framework focusing on developer experience
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [codenameone/CodenameOne](https://github.com/codenameone/CodenameOne) - Cross-platform framework for building truly native mobile apps with Java or Kotlin. Write Once Run Anywhere support for iOS, Android, Desktop & Web.
@@ -755,6 +757,7 @@
 
 ## iot 
 
+- [google/wasefire](https://github.com/google/wasefire) - Secure firmware framework focusing on developer experience
 - [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) - 12 Weeks, 24 Lessons, IoT for All!
 - [CounterFit-IoT/CounterFit](https://github.com/CounterFit-IoT/CounterFit) - A simulator for IoT sensors and actuators. This creates fake virtual sensors and actuators when the real ones won't fit on your counter 🤪.
 - [platformio/platformio-core](https://github.com/platformio/platformio-core) - Your Gateway to Embedded Software Development Excellence :alien:
@@ -1019,6 +1022,7 @@
 
 ## others 
 
+- [microsoft/RustTraining](https://github.com/microsoft/RustTraining) - Beginner, advanced, expert level Rust training material
 - [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
 - [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) - Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
 - [neo4j-labs/ai-governor](https://github.com/neo4j-labs/ai-governor) - Quality gates for AI agents. Guards that don't get tired.
@@ -1258,6 +1262,7 @@
 
 ## rust 
 
+- [google/wasefire](https://github.com/google/wasefire) - Secure firmware framework focusing on developer experience
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
@@ -1286,6 +1291,7 @@
 
 ## security 
 
+- [google/wasefire](https://github.com/google/wasefire) - Secure firmware framework focusing on developer experience
 - [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) - Force Remove Copilot, Recall and More in Windows 11
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 
