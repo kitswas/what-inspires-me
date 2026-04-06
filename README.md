@@ -26,6 +26,7 @@
 - [Markdown](#markdown)
 - [Others](#others)
 - [PHP](#php)
+- [PLSQL](#plsql)
 - [PowerShell](#powershell)
 - [Python](#python)
 - [QML](#qml)
@@ -36,7 +37,6 @@
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [TypeScript](#typescript)
-- [Verilog](#verilog)
 - [Vue](#vue)
 - [Zig](#zig)
 
@@ -159,6 +159,7 @@
 
 ## Java 
 
+- [researchxxl/syncthing-android](https://github.com/researchxxl/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 - [apache/accumulo](https://github.com/apache/accumulo) - Apache Accumulo
 - [nikita36078/J2ME-Loader](https://github.com/nikita36078/J2ME-Loader) - A J2ME emulator for Android.
 - [AndorsTrailRelease/andors-trail](https://github.com/AndorsTrailRelease/andors-trail) - Andor's Trail
@@ -272,6 +273,10 @@
 ## PHP 
 
 - [errorinn/netsim](https://github.com/errorinn/netsim) - Web-based network simulator for teaching hacking to high schoolers
+
+## PLSQL 
+
+- [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) - Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
 
 ## PowerShell 
 
@@ -426,10 +431,6 @@
 - [mfinelli/setup-imagemagick](https://github.com/mfinelli/setup-imagemagick) - github action to install imagemagick
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [softmaple/softmaple](https://github.com/softmaple/softmaple) - A Paper Typesetting Editor
-
-## Verilog 
-
-- [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) - Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
 
 ## Vue 
 
