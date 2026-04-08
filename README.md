@@ -18,6 +18,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Just](#just)
 - [KiCad Layout](#kicad-layout)
 - [Kotlin](#kotlin)
 - [LLVM](#llvm)
@@ -187,6 +188,7 @@
 
 ## JavaScript 
 
+- [flatpak/flatpak-github-actions](https://github.com/flatpak/flatpak-github-actions) - Build your Flatpak application using Github Actions
 - [mozilla/web-ext](https://github.com/mozilla/web-ext) - A command line tool to help build, run, and test web extensions
 - [railsblueprint/blueprint-mcp](https://github.com/railsblueprint/blueprint-mcp) - MCP server for browser automation across Chrome, Firefox, and Safari using real browser profiles
 - [eisenwave/cdecl-plus](https://github.com/eisenwave/cdecl-plus) - Similar to cdecl.org, but with broader support for language features. Static web page which supports file protocol. Parsing and to-prose conversion happen in the front-end, resulting in instant feedba
@@ -224,6 +226,10 @@
 - [little-book-of/linear-algebra](https://github.com/little-book-of/linear-algebra) - A concise, beginner-friendly introduction to the core ideas of linear algebra.
 - [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) - 12 Weeks, 24 Lessons, IoT for All!
 - [openhackathons-org/gpubootcamp](https://github.com/openhackathons-org/gpubootcamp) - This repository consists for gpu bootcamp material for HPC and AI
+
+## Just 
+
+- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
 
 ## KiCad Layout 
 
@@ -378,7 +384,6 @@
 
 ## Shell 
 
-- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
 - [ROCm/ROCm](https://github.com/ROCm/ROCm) - AMD ROCm™ Software - GitHub Home
 - [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline) - Linux Distributions Timeline
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
