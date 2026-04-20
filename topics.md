@@ -1054,7 +1054,7 @@
 - [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
-- [perixtar/2025-Tech-OA-by-FastPrep](https://github.com/perixtar/2025-Tech-OA-by-FastPrep) - List of Tech Company OAs. Save your time from finding them all over the internet.
+- [perixtar/2026-Tech-OA-by-FastPrep](https://github.com/perixtar/2026-Tech-OA-by-FastPrep) - List of Tech Company OAs. Save your time from finding them all over the internet.
 - [SebaUbuntu/Athena](https://github.com/SebaUbuntu/Athena) - Open source Material You Android device info app
 - [SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels) - 
 - [r-three/common-pile](https://github.com/r-three/common-pile) - Code for collecting, processing, and preparing datasets for the Common Pile
