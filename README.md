@@ -292,6 +292,7 @@
 
 ## Python 
 
+- [vlee-harmonicinc/machine-learning-note](https://github.com/vlee-harmonicinc/machine-learning-note) - my machine learning note
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - The property-based testing library for Python
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [neo4j-labs/ai-governor](https://github.com/neo4j-labs/ai-governor) - Quality gates for AI agents. Guards that don't get tired.
