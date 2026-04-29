@@ -23,6 +23,7 @@
 - [bot](#bot)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [c-sharp](#c-sharp)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
@@ -314,6 +315,10 @@
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [widelands/widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and d
+
+## c-sharp 
+
+- [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 
 ## chatgpt 
 
