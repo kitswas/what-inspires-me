@@ -219,7 +219,7 @@
 - [AlexNisnevich/untrusted](https://github.com/AlexNisnevich/untrusted) - A meta-JavaScript adventure game by Alex Nisnevich and Greg Shuflin.
 - [avinash201199/Competitions-and-Programs-List](https://github.com/avinash201199/Competitions-and-Programs-List) - List of competitions with details for college students to participate and  to enhance their skills.
 - [therealglazou/bluegriffon](https://github.com/therealglazou/bluegriffon) - BlueGriffon, the Web editor
-- [ohcnetwork/admission_task](https://github.com/ohcnetwork/admission_task) - Global Digital Corps - Software Engineering Test Problem | Priority list
+- [Coronasafe/admission_task](https://github.com/Coronasafe/admission_task) - Global Digital Corps - Software Engineering Test Problem | Priority list
 - [particle-clicker/particle-clicker](https://github.com/particle-clicker/particle-clicker) - An addictive incremental game that teaches players the history of high energy particle physics
 
 ## Jupyter Notebook 
@@ -427,7 +427,7 @@
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
 - [star-history/star-history](https://github.com/star-history/star-history) - The de facto GitHub star history graph.
 - [iluwatar/java-design-patterns-vuepress-web](https://github.com/iluwatar/java-design-patterns-vuepress-web) - Next generation website for Java Design Patterns
-- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
+- [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [nandanmen/NotANumber](https://github.com/nandanmen/NotANumber) - An interactive blog on computer science and web dev 💡
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
