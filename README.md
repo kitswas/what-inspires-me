@@ -189,6 +189,7 @@
 
 ## JavaScript 
 
+- [Alinur1/LocalPDF_Studio](https://github.com/Alinur1/LocalPDF_Studio) - Complete offline, privacy focused PDF tool
 - [flatpak/flatpak-github-actions](https://github.com/flatpak/flatpak-github-actions) - Build your Flatpak application using Github Actions
 - [mozilla/web-ext](https://github.com/mozilla/web-ext) - A command line tool to help build, run, and test web extensions
 - [railsblueprint/blueprint-mcp](https://github.com/railsblueprint/blueprint-mcp) - MCP server for browser automation across Chrome, Firefox, and Safari using real browser profiles
