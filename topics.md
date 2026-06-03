@@ -433,12 +433,12 @@
 
 ## data-analysis 
 
-- [JustAJobApp/jobseeker-analytics](https://github.com/JustAJobApp/jobseeker-analytics) - Jobseekers don't give a click! Connect your Gmail inbox and automatically see your entire job search in a dashboard, no copy-pasting required.
+- [JustAJobApp/jobseeker-analytics](https://github.com/JustAJobApp/jobseeker-analytics) - Are you still tracking jobs in spreadsheets? Connect your Gmail inbox and automatically see your job search in a dashboard, no copy-pasting required.
 
 ## data-science 
 
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
-- [JustAJobApp/jobseeker-analytics](https://github.com/JustAJobApp/jobseeker-analytics) - Jobseekers don't give a click! Connect your Gmail inbox and automatically see your entire job search in a dashboard, no copy-pasting required.
+- [JustAJobApp/jobseeker-analytics](https://github.com/JustAJobApp/jobseeker-analytics) - Are you still tracking jobs in spreadsheets? Connect your Gmail inbox and automatically see your job search in a dashboard, no copy-pasting required.
 - [zasper-io/zasper](https://github.com/zasper-io/zasper) - High Performace IDE for Jupyter Notebooks
 - [openhackathons-org/gpubootcamp](https://github.com/openhackathons-org/gpubootcamp) - This repository consists for gpu bootcamp material for HPC and AI
 
@@ -542,7 +542,7 @@
 
 ## fastapi 
 
-- [JustAJobApp/jobseeker-analytics](https://github.com/JustAJobApp/jobseeker-analytics) - Jobseekers don't give a click! Connect your Gmail inbox and automatically see your entire job search in a dashboard, no copy-pasting required.
+- [JustAJobApp/jobseeker-analytics](https://github.com/JustAJobApp/jobseeker-analytics) - Are you still tracking jobs in spreadsheets? Connect your Gmail inbox and automatically see your job search in a dashboard, no copy-pasting required.
 
 ## finance 
 
@@ -753,7 +753,7 @@
 
 ## html 
 
-- [JustAJobApp/jobseeker-analytics](https://github.com/JustAJobApp/jobseeker-analytics) - Jobseekers don't give a click! Connect your Gmail inbox and automatically see your entire job search in a dashboard, no copy-pasting required.
+- [JustAJobApp/jobseeker-analytics](https://github.com/JustAJobApp/jobseeker-analytics) - Are you still tracking jobs in spreadsheets? Connect your Gmail inbox and automatically see your job search in a dashboard, no copy-pasting required.
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [therealglazou/bluegriffon](https://github.com/therealglazou/bluegriffon) - BlueGriffon, the Web editor
 
@@ -910,7 +910,7 @@
 
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
-- [JustAJobApp/jobseeker-analytics](https://github.com/JustAJobApp/jobseeker-analytics) - Jobseekers don't give a click! Connect your Gmail inbox and automatically see your entire job search in a dashboard, no copy-pasting required.
+- [JustAJobApp/jobseeker-analytics](https://github.com/JustAJobApp/jobseeker-analytics) - Are you still tracking jobs in spreadsheets? Connect your Gmail inbox and automatically see your job search in a dashboard, no copy-pasting required.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [milosgajdos/bot-banter](https://github.com/milosgajdos/bot-banter) - Go vs Rust AI bot voice conversation
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
@@ -989,7 +989,7 @@
 ## nextjs 
 
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [JustAJobApp/jobseeker-analytics](https://github.com/JustAJobApp/jobseeker-analytics) - Jobseekers don't give a click! Connect your Gmail inbox and automatically see your entire job search in a dashboard, no copy-pasting required.
+- [JustAJobApp/jobseeker-analytics](https://github.com/JustAJobApp/jobseeker-analytics) - Are you still tracking jobs in spreadsheets? Connect your Gmail inbox and automatically see your job search in a dashboard, no copy-pasting required.
 - [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [softmaple/softmaple](https://github.com/softmaple/softmaple) - A Paper Typesetting Editor
 
@@ -1222,7 +1222,7 @@
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
-- [JustAJobApp/jobseeker-analytics](https://github.com/JustAJobApp/jobseeker-analytics) - Jobseekers don't give a click! Connect your Gmail inbox and automatically see your entire job search in a dashboard, no copy-pasting required.
+- [JustAJobApp/jobseeker-analytics](https://github.com/JustAJobApp/jobseeker-analytics) - Are you still tracking jobs in spreadsheets? Connect your Gmail inbox and automatically see your job search in a dashboard, no copy-pasting required.
 - [rendercv/rendercv](https://github.com/rendercv/rendercv) - Resume builder for academics and engineers
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
@@ -1268,7 +1268,7 @@
 ## react 
 
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
-- [JustAJobApp/jobseeker-analytics](https://github.com/JustAJobApp/jobseeker-analytics) - Jobseekers don't give a click! Connect your Gmail inbox and automatically see your entire job search in a dashboard, no copy-pasting required.
+- [JustAJobApp/jobseeker-analytics](https://github.com/JustAJobApp/jobseeker-analytics) - Are you still tracking jobs in spreadsheets? Connect your Gmail inbox and automatically see your job search in a dashboard, no copy-pasting required.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
@@ -1420,7 +1420,7 @@
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
-- [JustAJobApp/jobseeker-analytics](https://github.com/JustAJobApp/jobseeker-analytics) - Jobseekers don't give a click! Connect your Gmail inbox and automatically see your entire job search in a dashboard, no copy-pasting required.
+- [JustAJobApp/jobseeker-analytics](https://github.com/JustAJobApp/jobseeker-analytics) - Are you still tracking jobs in spreadsheets? Connect your Gmail inbox and automatically see your job search in a dashboard, no copy-pasting required.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
