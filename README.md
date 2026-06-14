@@ -10,6 +10,7 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
+- [CMake](#cmake)
 - [CSS](#css)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
@@ -109,6 +110,10 @@
 - [visualboyadvance-m/visualboyadvance-m](https://github.com/visualboyadvance-m/visualboyadvance-m) - The continuing development of the legendary VBA gameboy advance emulator.
 - [meunierd/upset](https://github.com/meunierd/upset) - Mirror of byuu's ups patcher
 - [widelands/widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and d
+
+## CMake 
+
+- [ssciwr/clang-format-wheel](https://github.com/ssciwr/clang-format-wheel) - clang-format python wheels
 
 ## CSS 
 
