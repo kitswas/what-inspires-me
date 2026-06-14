@@ -1218,6 +1218,7 @@
 
 ## python 
 
+- [ssciwr/clang-format-wheel](https://github.com/ssciwr/clang-format-wheel) - clang-format python wheels
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - The property-based testing library for Python
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
