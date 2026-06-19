@@ -1059,6 +1059,7 @@
 
 ## others 
 
+- [nicolas-raoul/OpenCamera-JPEG-XL](https://github.com/nicolas-raoul/OpenCamera-JPEG-XL) - 
 - [Alinur1/LocalPDF_Studio](https://github.com/Alinur1/LocalPDF_Studio) - Complete offline, privacy focused PDF tool
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 - [flatpak/flatpak-github-actions](https://github.com/flatpak/flatpak-github-actions) - Build your Flatpak application using Github Actions
