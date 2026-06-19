@@ -166,6 +166,7 @@
 
 ## Java 
 
+- [nicolas-raoul/OpenCamera-JPEG-XL](https://github.com/nicolas-raoul/OpenCamera-JPEG-XL) - 
 - [researchxxl/syncthing-android](https://github.com/researchxxl/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 - [apache/accumulo](https://github.com/apache/accumulo) - Apache Accumulo
 - [nikita36078/J2ME-Loader](https://github.com/nikita36078/J2ME-Loader) - A J2ME emulator for Android.
