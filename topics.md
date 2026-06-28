@@ -1026,6 +1026,7 @@
 
 ## open-source 
 
+- [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
