@@ -348,6 +348,7 @@
 
 ## Rust 
 
+- [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
 - [microsoft/RustTraining](https://github.com/microsoft/RustTraining) - Beginner, advanced, expert level Rust training material
 - [google/wasefire](https://github.com/google/wasefire) - Secure firmware framework focusing on developer experience
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
