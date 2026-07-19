@@ -188,7 +188,7 @@
 - [kirill-grouchnikov/radiance](https://github.com/kirill-grouchnikov/radiance) - Building modern, elegant and fast Swing applications
 - [JFormDesigner/FlatLaf](https://github.com/JFormDesigner/FlatLaf) - FlatLaf - Swing Look and Feel (with Darcula/IntelliJ themes support)
 - [junit-team/junit-framework](https://github.com/junit-team/junit-framework) - ✅ The programmer-friendly testing framework for Java and the JVM
-- [codenameone/CodenameOne](https://github.com/codenameone/CodenameOne) - Cross-platform framework for building truly native mobile apps with Java or Kotlin. Write Once Run Anywhere support for iOS, Android, Desktop & Web.
+- [codenameone/CodenameOne](https://github.com/codenameone/CodenameOne) - Open-source framework for native apps from one Java codebase, with a custom-rendered UI you control across iOS, Android, desktop, web, and watches.
 - [sharpie7/circuitjs1](https://github.com/sharpie7/circuitjs1) - Electronic Circuit Simulator in the Browser
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 - [apache/maven](https://github.com/apache/maven) - Apache Maven core
