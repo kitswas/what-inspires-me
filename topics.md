@@ -600,6 +600,7 @@
 
 ## game 
 
+- [TheRedDeveloper/ply-engine](https://github.com/TheRedDeveloper/ply-engine) - Beautiful UIs in Rust. Cross-platform. Dead simple.
 - [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Web version: https://play.hypersomnia.io Made in 🇵🇱
 - [Uriopass/Egregoria](https://github.com/Uriopass/Egregoria) - 3D City Builder without a grid
 - [citybound/citybound](https://github.com/citybound/citybound) - A work-in-progress, open-source, multi-player city simulation game.
@@ -1039,6 +1040,7 @@
 
 ## open-source 
 
+- [TheRedDeveloper/ply-engine](https://github.com/TheRedDeveloper/ply-engine) - Beautiful UIs in Rust. Cross-platform. Dead simple.
 - [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
@@ -1326,6 +1328,7 @@
 
 ## rust 
 
+- [TheRedDeveloper/ply-engine](https://github.com/TheRedDeveloper/ply-engine) - Beautiful UIs in Rust. Cross-platform. Dead simple.
 - [google/wasefire](https://github.com/google/wasefire) - Secure firmware framework focusing on developer experience
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
@@ -1467,6 +1470,7 @@
 
 ## ui 
 
+- [TheRedDeveloper/ply-engine](https://github.com/TheRedDeveloper/ply-engine) - Beautiful UIs in Rust. Cross-platform. Dead simple.
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 
 ## ui-design 
