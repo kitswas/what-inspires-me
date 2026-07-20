@@ -348,6 +348,7 @@
 
 ## Rust 
 
+- [TheRedDeveloper/ply-engine](https://github.com/TheRedDeveloper/ply-engine) - Beautiful UIs in Rust. Cross-platform. Dead simple.
 - [geiger-rs/cargo-geiger](https://github.com/geiger-rs/cargo-geiger) - Detects usage of unsafe Rust in a Rust crate and its dependencies.
 - [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
 - [microsoft/RustTraining](https://github.com/microsoft/RustTraining) - Beginner, advanced, expert level Rust training material
