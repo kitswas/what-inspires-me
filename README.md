@@ -353,6 +353,7 @@
 
 ## Rust 
 
+- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, and YouTube sources.
 - [sourcefrog/cargo-mutants](https://github.com/sourcefrog/cargo-mutants) - :zombie: Inject bugs and see if your tests catch them!
 - [firecrawl/anydoc](https://github.com/firecrawl/anydoc) - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
@@ -422,7 +423,7 @@
 
 ## TypeScript 
 
-- [kitswas/generate-star-history](https://github.com/kitswas/generate-star-history) - Star history charts that just work. Set and forget.
+- [kitswas/generate-star-history](https://github.com/kitswas/generate-star-history) - Multi-repo Star History charts that just work. Set and forget.
 - [StackExchange/Survey](https://github.com/StackExchange/Survey) - The official repo for the Stack Overflow Developer Survey
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [siddarthkay/syncup](https://github.com/siddarthkay/syncup) - SyncUp: an open-source Syncthing client for iOS and Android, powered by react-native
