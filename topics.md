@@ -1168,7 +1168,7 @@
 - [little-book-of/linear-algebra](https://github.com/little-book-of/linear-algebra) - A concise, beginner-friendly introduction to the core ideas of linear algebra.
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 - [p2r3/beheader](https://github.com/p2r3/beheader) - Polyglot generator for media files
-- [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
+- [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - Open-source State-of-the-art TTS model which runs on a CPU 😻
 - [shriramters/sowing](https://github.com/shriramters/sowing) - Simple Org-mode WIki eNGine
 - [terslang/LocalTranslate](https://github.com/terslang/LocalTranslate) - Translate offline using Firefox Translation Models
 - [AndorsTrailRelease/andors-trail](https://github.com/AndorsTrailRelease/andors-trail) - Andor's Trail
