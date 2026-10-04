@@ -445,7 +445,7 @@
 - [kitswas/generate-star-history](https://github.com/kitswas/generate-star-history) - Multi-repo Star History charts that just work. Set and forget.
 - [StackExchange/Survey](https://github.com/StackExchange/Survey) - The official repo for the Stack Overflow Developer Survey
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-- [siddarthkay/syncup](https://github.com/siddarthkay/syncup) - SyncUp: an open-source Syncthing client for iOS and Android, powered by react-native
+- [sidtech-solutions/syncup](https://github.com/sidtech-solutions/syncup) - SyncUp: an open-source Syncthing client for iOS and Android, powered by react-native
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 - [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.
