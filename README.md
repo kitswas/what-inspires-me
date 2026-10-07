@@ -433,6 +433,7 @@
 
 ## Svelte 
 
+- [StackExchange/Survey](https://github.com/StackExchange/Survey) - The official repo for the Stack Overflow Developer Survey
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [johannchopin/stackoverflow-readme-profile](https://github.com/johannchopin/stackoverflow-readme-profile) - Easily share your Stackoverflow's profile on your README
 
@@ -443,7 +444,6 @@
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [kitswas/generate-star-history](https://github.com/kitswas/generate-star-history) - Multi-repo Star History charts that just work. Set and forget.
-- [StackExchange/Survey](https://github.com/StackExchange/Survey) - The official repo for the Stack Overflow Developer Survey
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [sidtech-solutions/syncup](https://github.com/sidtech-solutions/syncup) - SyncUp: an open-source Syncthing client for iOS and Android, powered by react-native
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
