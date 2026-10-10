@@ -1132,6 +1132,7 @@
 
 ## others 
 
+- [hughhowey/neo](https://github.com/hughhowey/neo) - A novel-writing tool created by a novelist.
 - [nathanrs/gzipt](https://github.com/nathanrs/gzipt) - A compression based language model
 - [jaredpalmer/kev](https://github.com/jaredpalmer/kev) - Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own
 - [Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0) - Run 35B MoE models in ~2.5 GB of RAM. Weights stream from SSD; a trained router predicts loads a step ahead. Mac, iPhone, Android, Windows supported
