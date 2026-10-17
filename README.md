@@ -58,6 +58,7 @@
 - [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scr
 - [qltysh/qlty](https://github.com/qltysh/qlty) - 💎 Code quality CLI for universal linting, auto-formatting, security scanning, and maintainability
+- [nikita36078/J2ME-Loader](https://github.com/nikita36078/J2ME-Loader) - A J2ME emulator for Android.
 - [vurtun/lib](https://github.com/vurtun/lib) - single header libraries for C/C++
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [dicedb/dicedb](https://github.com/dicedb/dicedb) - Open-source, low-latency key/value engine built on Valkey with query subscriptions and hierarchical storage tiers.
@@ -181,7 +182,6 @@
 - [nicolas-raoul/OpenCamera-JPEG-XL](https://github.com/nicolas-raoul/OpenCamera-JPEG-XL) - 
 - [researchxxl/syncthing-android](https://github.com/researchxxl/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 - [apache/accumulo](https://github.com/apache/accumulo) - Apache Accumulo
-- [nikita36078/J2ME-Loader](https://github.com/nikita36078/J2ME-Loader) - A J2ME emulator for Android.
 - [AndorsTrailRelease/andors-trail](https://github.com/AndorsTrailRelease/andors-trail) - Andor's Trail
 - [lionblaze55/syncthing-android-reborn](https://github.com/lionblaze55/syncthing-android-reborn) - Updated wrapper of syncthing for Android.
 - [google/error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors
