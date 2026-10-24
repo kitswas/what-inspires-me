@@ -367,7 +367,7 @@
 
 - [nyx-space/hifitime](https://github.com/nyx-space/hifitime) - An overflow-safe, high-performance datetime library providing leap-second-correct nanosecond precision across UTC, GPST, and relativistic time-scales. Flight-proven in lunar and deep-space missions.
 - [paupino/rust-decimal](https://github.com/paupino/rust-decimal) - Decimal number implementation written in pure Rust suitable for financial and fixed-precision calculations.
-- [servo/rust-smallvec](https://github.com/servo/rust-smallvec) - "Small vector" optimization for Rust: store up to a small number of items on the stack
+- [servo/rust-smallvec](https://github.com/servo/rust-smallvec) - 'Small vector' optimization for Rust: store up to a small number of items on the stack
 - [indexmap-rs/indexmap](https://github.com/indexmap-rs/indexmap) - A hash table with consistent order and fast iteration; access items by key or sequence index
 - [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, Qobuz and Youtube sources
 - [sourcefrog/cargo-mutants](https://github.com/sourcefrog/cargo-mutants) - :zombie: Inject bugs and see if your tests catch them!
