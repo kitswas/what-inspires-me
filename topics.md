@@ -1138,6 +1138,7 @@
 
 ## others 
 
+- [galadran/we-have-a-problem.com](https://github.com/galadran/we-have-a-problem.com) - 
 - [hughhowey/neo](https://github.com/hughhowey/neo) - A novel-writing tool created by a novelist.
 - [nathanrs/gzipt](https://github.com/nathanrs/gzipt) - A compression based language model
 - [jaredpalmer/kev](https://github.com/jaredpalmer/kev) - Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own
