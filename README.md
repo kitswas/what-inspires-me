@@ -165,6 +165,7 @@
 
 ## HTML 
 
+- [galadran/we-have-a-problem.com](https://github.com/galadran/we-have-a-problem.com) - 
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [faisal-shohag/leetcode_api](https://github.com/faisal-shohag/leetcode_api) - A working node js api. Specially with submission calendar.
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
