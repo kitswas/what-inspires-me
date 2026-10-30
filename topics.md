@@ -14,6 +14,7 @@
 - [algorithm](#algorithm)
 - [algorithms](#algorithms)
 - [android](#android)
+- [animation](#animation)
 - [api](#api)
 - [archlinux](#archlinux)
 - [arduino](#arduino)
@@ -285,6 +286,11 @@
 - [codenameone/CodenameOne](https://github.com/codenameone/CodenameOne) - Open-source framework for native apps from one Java codebase, with a custom-rendered UI you control across iOS, Android, desktop, web, and watches.
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
 - [wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) - 📱The official Wikipedia app for Android!
+
+## animation 
+
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
+- [kirill-grouchnikov/radiance](https://github.com/kirill-grouchnikov/radiance) - Building modern, elegant and fast Swing applications
 
 ## api 
 
