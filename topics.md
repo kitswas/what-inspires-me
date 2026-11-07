@@ -1153,6 +1153,7 @@
 
 ## others 
 
+- [oz9un/sshole](https://github.com/oz9un/sshole) - openssh on musl accepted any 257+ char password for accounts with no password. since 2016. check.sh, poc, patch.
 - [galadran/we-have-a-problem.com](https://github.com/galadran/we-have-a-problem.com) - 
 - [hughhowey/neo](https://github.com/hughhowey/neo) - A novel-writing tool created by a novelist.
 - [nathanrs/gzipt](https://github.com/nathanrs/gzipt) - A compression based language model
@@ -1433,7 +1434,7 @@
 
 - [nyx-space/hifitime](https://github.com/nyx-space/hifitime) - An overflow-safe, high-performance datetime library providing leap-second-correct nanosecond precision across UTC, GPST, and relativistic time-scales. Flight-proven in lunar and deep-space missions.
 - [paupino/rust-decimal](https://github.com/paupino/rust-decimal) - Decimal number implementation written in pure Rust suitable for financial and fixed-precision calculations.
-- [servo/rust-smallvec](https://github.com/servo/rust-smallvec) - 'Small vector' optimization for Rust: store up to a small number of items on the stack
+- [smallvec/smallvec](https://github.com/smallvec/smallvec) - 'Small vector' optimization for Rust: store up to a small number of items on the stack
 - [indexmap-rs/indexmap](https://github.com/indexmap-rs/indexmap) - A hash table with consistent order and fast iteration; access items by key or sequence index
 - [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, Qobuz and Youtube sources
 - [sourcefrog/cargo-mutants](https://github.com/sourcefrog/cargo-mutants) - :zombie: Inject bugs and see if your tests catch them!
