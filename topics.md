@@ -1172,7 +1172,7 @@
 - [kitswas/generate-star-history](https://github.com/kitswas/generate-star-history) - Multi-repo Star History charts that just work. Set and forget.
 - [geiger-rs/cargo-geiger](https://github.com/geiger-rs/cargo-geiger) - Detects usage of unsafe Rust in a Rust crate and its dependencies.
 - [nicolas-raoul/OpenCamera-JPEG-XL](https://github.com/nicolas-raoul/OpenCamera-JPEG-XL) - 
-- [Alinur1/LocalPDF_Studio](https://github.com/Alinur1/LocalPDF_Studio) - Complete offline, privacy focused PDF tool
+- [Alinur1/LocalPDF_Studio](https://github.com/Alinur1/LocalPDF_Studio) - Complete offline, privacy focused PDF editing desktop application
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 - [researchxxl/syncthing-android](https://github.com/researchxxl/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 - [microsoft/RustTraining](https://github.com/microsoft/RustTraining) - Beginner, advanced, expert level Rust training material
