@@ -1003,7 +1003,7 @@
 ## machine-learning 
 
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
-- [vlee-harmonicinc/machine-learning-note](https://github.com/vlee-harmonicinc/machine-learning-note) - my machine learning note
+- [vlee-mk/machine-learning-note](https://github.com/vlee-mk/machine-learning-note) - my machine learning note
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
 - [josephch405/ML-Playground](https://github.com/josephch405/ML-Playground) - A Playground for machine learning techniques
