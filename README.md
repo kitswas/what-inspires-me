@@ -313,7 +313,7 @@
 - [nathanrs/gzipt](https://github.com/nathanrs/gzipt) - A compression based language model
 - [jaredpalmer/kev](https://github.com/jaredpalmer/kev) - Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
-- [vlee-harmonicinc/machine-learning-note](https://github.com/vlee-harmonicinc/machine-learning-note) - my machine learning note
+- [vlee-mk/machine-learning-note](https://github.com/vlee-mk/machine-learning-note) - my machine learning note
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - The property-based testing library for Python
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [neo4j-labs/ai-governor](https://github.com/neo4j-labs/ai-governor) - Quality gates for AI agents. Guards that don't get tired.
